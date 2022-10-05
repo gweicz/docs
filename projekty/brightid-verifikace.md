@@ -23,4 +23,4 @@ Pro průzkum a vizualizaci můžete využít [BrightID Explorer](https://explore
 
 ## Discord kanál
 
-V rámci našeho [Discord chatu](../komunikacni-kanaly/discord.md) máme kanál `#🔆brightid-overeni`, kde můžete požádat o verifikaci.
+V rámci našeho [Discord chatu](/komunita/komunikacni-kanaly/discord) máme kanál `#🔆brightid-overeni`, kde můžete požádat o verifikaci.
