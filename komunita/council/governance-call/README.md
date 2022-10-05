@@ -9,13 +9,11 @@ Náš [Council](../) pravidelně pořádá online komunitní call, kde rozebír�
 * Den a čas: (občasně) **středa 20:00**
 * Místo: Aktuálně používáme službu [Jitsi Meet](https://meet.gwei.cz/) (vlastní instance) - odkaz na setkání se posílá na náš Discord pár minut/hodin před začátkem
 
-{% content-ref url="seznam-setkani.md" %}
-[seznam-setkani.md](seznam-setkani.md)
-{% endcontent-ref %}
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
 
-{% hint style="info" %}
-Všechny události, včetně nejbližšího governance callu, najdete v [našem kalendáři](https://forum.gwei.cz/calendar).
-{% endhint %}
+<DocCardList />
+```
 
 ## Průběh
 

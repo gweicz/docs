@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Gwei.cz',
-  tagline: 'Společně tvoříme nový svobodný finanční systém / internet nové generace (web3)',
+  tagline: 'Společně tvoříme nový svobodný finanční systém a internet nové generace (Web3)',
   url: 'https://gwei.cz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -27,17 +27,37 @@ const config = {
     locales: ['en', 'cs'],
   },
 
+  plugins: [
+    [
+      'content-docs',
+      ({
+        id: 'projekty',
+        path: 'projekty',
+        routeBasePath: 'projekty',
+        sidebarPath: require.resolve('./sidebarsProjekty.js'),
+        editUrl:
+          'https://github.com/gweicz/docs/edit/master/',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+      })
+    ],
+  ],
+
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'komunita',
+          routeBasePath: 'komunita',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/gweicz/docs/edit/master/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -67,7 +87,17 @@ const config = {
             type: 'doc',
             docId: 'README',
             position: 'left',
-            label: 'Dokumentace',
+            label: 'Komunita',
+          },
+          {
+            to: 'projekty',
+            position: 'left',
+            label: 'Projekty',
+          },
+          {
+            to: 'komunita/in-english',
+            position: 'left',
+            label: 'In English 🇬🇧'
           },
           {
             href: 'https://forum.gwei.cz',
@@ -76,7 +106,7 @@ const config = {
           },
           {
             href: 'https://matrix.to/#/#gweicz:gwei.cz',
-            label: 'Matrix (#gweicz:gwei.cz)',
+            label: 'Matrix',
             position: 'right',
           },
         ],
@@ -85,46 +115,58 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Dokumentace',
+            title: 'Komunita',
             items: [
               {
+                label: 'Kdo jsme?',
+                to: '/komunita',
+              },
+              {
                 label: 'Klíčové pojmy',
-                to: '/docs/klicove-pojmy',
+                to: '/komunita/klicove-pojmy',
+              },
+              {
+                label: 'Podpořte nás',
+                to: '/komunita/podporte-nas',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Komunikační kanály',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Fórum',
+                href: 'https://matrix.gwei.cz',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Matrix (chat)',
+                href: 'https://matrix.gwei.cz',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/gweicz',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Projekty',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'BohemianDAO',
+                href: 'https://bohemiandao.cz',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'ETHBrno hackathon',
+                href: 'https://ethbrno.cz',
+              },
+              {
+                label: 'DeFi Toolkit',
+                href: 'https://hackmd.io/@gweicz/defi-toolkit',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Gwei.cz. Built with Docusaurus.`,
+        copyright: `Vytvořeno v Praze 🖤💛 s pomocí <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,

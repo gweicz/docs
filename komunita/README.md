@@ -1,4 +1,4 @@
-# Vítejte na Gwei.cz
+# Kdo jsme?
 
 **Gwei.cz je Česko/Slovenská komunita příznivců platformy **[**Ethereum**](klicove-pojmy.md#ethereum)** a hnutí okolo **[**decentralizovaných financí**](klicove-pojmy.md#decentralizovane-finance-defi)** (DeFi). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok v otevřených a decentralizovaných službách, které v rámci DeFi mění svět tradičních financí. Fintech je minulost – DeFi budoucnost.**
 
@@ -16,7 +16,7 @@ Můžete nám také [**pomoci s rozvojem komunitních projektů**](podporte-nas/
 
 Každá komunita musí být alespoň v omezené míře spravována. U nás k tomu slouží [Council](council/).
 
-### :notepad_spiral:Naše hodnoty
+### ✨ Naše hodnoty
 
 * Otevřenost
 * Decentralizace
@@ -31,6 +31,8 @@ Každá komunita musí být alespoň v omezené míře spravována. U nás k tom
 * Tvorba projektů nebo alespoň podpora nově vznikajících projektů
 * Tvorba komunikačního a informačního prostoru pro všechny příznivce stejných hodnot
 
-{% hint style="success" %}
-"Gwei" znamená "giga-wei", tedy milion "wei". "Wei" je [nejmenší monetární jednotka Etheru (ETH)](https://ethdocs.org/en/latest/ether.html). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.
-{% endhint %}
+:::tip
+
+`Gwei` znamená "giga-wei", tedy milion "wei". `Wei` je [nejmenší monetární jednotka Etheru](https://ethereum.org/en/developers/docs/intro-to-ether/#denominations) (ETH). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.
+
+:::

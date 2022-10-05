@@ -1,8 +1,8 @@
 # Media Kit
 
-Všechny soubory naleznete také na našem GitHub repozitáři **brand:**
+Všechny soubory naleznete v našem GitHub repozitáři **brand:**
 
-{% embed url="https://github.com/gweicz/brand" %}
+→ https://github.com/gweicz/brand
 
 ## Logo
 

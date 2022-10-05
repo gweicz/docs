@@ -1,41 +1,45 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Fórum Gwei.cz',
+    buttonText: 'Přejít na fórum',
+    buttonHref: 'https://forum.gwei.cz',
+    Svg: require('@site/static/img/forum.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Základní komunikační nástroj, zde řešíme to nejpodstatnější.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Matrix chat',
+    buttonText: 'Přejít na Matrix',
+    buttonHref: 'https://matrix.gwei.cz',
+    Svg: require('@site/static/img/matrix.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Prostor pro rychlou debatu, diskuze aktuálního dění v reálném čase.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Twitter',
+    buttonText: 'Přejít na Twitter',
+    buttonHref: 'https://twitter.com/gweicz',
+    Svg: require('@site/static/img/twitter.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Sledujte nás na našem Twitteru, ať vám neunikne žádná novinka z Etherea.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, href, buttonText, buttonHref}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -44,6 +48,13 @@ function Feature({Svg, title, description}) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        {buttonText && buttonHref &&
+          <Link
+            className="button button--primary button--outline button--lg"
+            href={buttonHref}>
+            {buttonText}
+          </Link>
+        }
       </div>
     </div>
   );
