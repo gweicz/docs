@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Gwei.cz',
   tagline: 'Společně tvoříme nový svobodný finanční systém a internet nové generace (Web3)',
-  url: 'https://gwei.cz',
+  url: 'https://new.gwei.cz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
