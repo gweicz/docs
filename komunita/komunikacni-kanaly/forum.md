@@ -9,6 +9,12 @@ description: Strukturovaná diskuze, novinky v komunitě a našich projektech
 
 Fórum funguje na open source systému [Discourse](https://www.discourse.org/). Pro aktivní účast je nutné se [zaregistrovat](https://forum.gwei.cz/signup), dostupné metody registrace jsou přes uživatelské jméno a heslo a nebo propojení s GitHubem, Twitterem nebo Discordem.
 
+```mdx-code-block
+import Button from '@site/src/components/Button';
+
+<Button href="https://forum.gwei.cz" text="Přejít na naše fórum" />
+```
+
 ### Hlavní stránky
 
 * [Kategorie](https://forum.gwei.cz/categories) - přehled všech kategorií

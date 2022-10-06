@@ -4,7 +4,7 @@
 
 V rámci naší komunity existuje skupina lidí (tzv. "seed group"), kteří můžou verifikovat nové uživatele stejně jako oficiální [Connection Party](https://meet.brightid.org/#/).
 
-{% embed url="https://brightid.org" %}
+<a href="https://brightid.org"><button class="button button--primary">→ brightid.org</button></a>
 
 ## Gwei.cz seed group
 

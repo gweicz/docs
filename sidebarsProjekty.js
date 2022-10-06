@@ -24,19 +24,18 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Iniciativy',
-      items: [
-        'bohemiandao',
-        'utxo-foundation',
-        'dczk'
-      ]
-    },
-    {
-      type: 'category',
       label: 'Události',
       items: [
-        'ethbrno',
-        'utxoprague',
+        {
+          type: 'link',
+          label: 'ETHBrno hackathon',
+          href: 'https://ethbrno.cz'
+        },
+        {
+          type: 'link',
+          label: 'UTXO konference',
+          href: 'https://utxo.cz'
+        },
         'beerfi',
         'palime-ether',
       ]
@@ -45,8 +44,42 @@ const sidebars = {
       type: 'category',
       label: 'Dokumentace',
       items: [
-        'defi-toolkit',
-        'dao-prirucka'
+        {
+          type: 'link',
+          label: 'DeFi Toolkit',
+          href: 'https://hackmd.io/@gweicz/defi-toolkit'
+        },
+        {
+          type: 'link',
+          label: 'DAO Příručka',
+          href: 'https://dao.gwei.cz/'
+        },
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Iniciativy',
+      items: [
+        {
+          type: 'link',
+          label: 'BohemianDAO',
+          href: 'https://docs.bohemiandao.cz/'
+        },
+        {
+          type: 'link',
+          label: 'UTXO Foundation, z.s.',
+          href: 'https://utxo.foundation/'
+        },
+        {
+          type: 'link',
+          label: 'dCZK think tank',
+          href: 'https://forum.dczk.cz/'
+        },
+        {
+          type: 'link',
+          label: 'Bankless.cz',
+          href: 'https://bankless.cz/'
+        },
       ]
     },
   ],

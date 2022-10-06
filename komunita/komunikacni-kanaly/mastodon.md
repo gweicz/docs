@@ -4,5 +4,11 @@ description: Sociální síť podobná Twitteru, ale open-source
 
 # Mastodon
 
-* Adresa: [**social.gwei.cz**](https://social.gwei.cz)
-* Spravuje: [Council](../council/)
+* Účet: [**@gweicz@gwei.cz**](https://social.gwei.cz/@gweicz)
+* Spravuje: [@tree](https://forum.gwei.cz/u/tree)
+
+```mdx-code-block
+import Button from '@site/src/components/Button';
+
+<Button href="https://social.gwei.cz/@gweicz" text="Přejít na náš Mastodon profil" />
+```

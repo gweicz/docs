@@ -1,1 +1,0 @@
-# ETHBrno hackathon

@@ -9,6 +9,12 @@ description: I my jsme součástí fenoménu CryptoTwitteru (CT)
 
 O čem je platforma [Twitter](https://twitter.com/) asi není nutné vysvětlovat. Děkujeme za každé follow!
 
+```mdx-code-block
+import Button from '@site/src/components/Button';
+
+<Button href="https://twitter.com/gweicz" text="Sledujte nás na Twitteru" />
+```
+
 ## Screenshot
 
 [![Náš profil na Twitteru](../.gitbook/assets/twitter-screenshot.png)](https://twitter.com/gweicz)

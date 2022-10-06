@@ -12,6 +12,12 @@ description: Komunikace v reálném čase
 
 Více informací o Matrixu a jak začít naleznete na stránce [joinmatrix.org](https://joinmatrix.org/) 🇬🇧
 
+```mdx-code-block
+import Button from '@site/src/components/Button';
+
+<Button href="https://matrix.gwei.cz" text="Přejít na náš Matrix" />
+```
+
 ## Kanály
 
 | ID kanálu | Popis kanálu |
