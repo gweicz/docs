@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
+import {useColorMode} from '@docusaurus/theme-common';
 
 const FeatureList = [
   {
@@ -9,6 +10,7 @@ const FeatureList = [
     buttonText: 'Přejít na fórum',
     buttonHref: 'https://forum.gwei.cz',
     Svg: require('@site/static/img/forum.svg').default,
+    inversible: false,
     description: (
       <>
         Základní komunikační nástroj, zde řešíme to nejpodstatnější.
@@ -20,6 +22,7 @@ const FeatureList = [
     buttonText: 'Přejít na Matrix',
     buttonHref: 'https://matrix.gwei.cz',
     Svg: require('@site/static/img/matrix.svg').default,
+    inversible: true,
     description: (
       <>
         Prostor pro rychlou debatu, diskuze aktuálního dění v reálném čase.
@@ -31,6 +34,7 @@ const FeatureList = [
     buttonText: 'Přejít na Twitter',
     buttonHref: 'https://twitter.com/gweicz',
     Svg: require('@site/static/img/twitter.svg').default,
+    inversible: false,
     description: (
       <>
         Sledujte nás na našem Twitteru, ať vám neunikne žádná novinka z Etherea.
@@ -39,11 +43,19 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description, href, buttonText, buttonHref}) {
+function Feature({Svg, title, description, href, buttonText, buttonHref, inversible}) {
+  const { colorMode } = useColorMode();
+  console.log(inversible)
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Link href={buttonHref}>
+          {inversible
+              ? <Svg className={styles.featureSvg} role="img" style={colorMode === 'dark' ? { filter: 'invert(100%)' } : {}} />
+              : <Svg className={styles.featureSvg} role="img" />
+          }
+        </Link>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

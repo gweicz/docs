@@ -24,8 +24,25 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'cs',
-    locales: ['en', 'cs'],
+    locales: ['en','cs'],
   },
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+        language: [ "en" ],
+        docsRouteBasePath: ['/komunita', '/projekty']
+      },
+    ]
+  ],
 
   plugins: [
     [
@@ -59,13 +76,6 @@ const config = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -92,7 +102,7 @@ const config = {
           {
             to: 'projekty',
             position: 'left',
-            label: 'Projekty',
+            label: 'Projekty a služby',
           },
           {
             to: 'komunita/in-english',

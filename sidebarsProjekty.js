@@ -24,11 +24,21 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Iniciativy',
+      items: [
+        'bohemiandao',
+        'utxo-foundation',
+        'dczk'
+      ]
+    },
+    {
+      type: 'category',
       label: 'Události',
       items: [
         'ethbrno',
         'utxoprague',
-        'palime-ether'
+        'beerfi',
+        'palime-ether',
       ]
     },
     {
@@ -37,15 +47,6 @@ const sidebars = {
       items: [
         'defi-toolkit',
         'dao-prirucka'
-      ]
-    },
-    {
-      type: 'category',
-      label: 'Iniciativy',
-      items: [
-        'bohemiandao',
-        'utxo-foundation',
-        'dczk'
       ]
     },
   ],
