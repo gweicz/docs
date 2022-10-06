@@ -7,7 +7,7 @@ description: Místo pro zápisky a další dokumenty
 * Adresa: [**hackmd.io/@gweicz**](https://hackmd.io/@gweicz) nebo [notes.gwei.cz](https://notes.gwei.cz)
 * Správuje: [Council](/komunita/council)
 
-V rámci platformy [HackMD](https://hackmd.io/) publikujeme různé zápisky, koncepty a další dokumenty jako je například [DeFi Toolkit](/projekty/defi-toolkit).
+V rámci platformy [HackMD](https://hackmd.io/) publikujeme různé zápisky, koncepty a další dokumenty jako je například [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit).
 
 ## Náhled
 
