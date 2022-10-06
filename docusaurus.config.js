@@ -54,8 +54,8 @@ const config = {
         sidebarPath: require.resolve('./sidebarsProjekty.js'),
         editUrl:
           'https://github.com/gweicz/docs/edit/master/',
-        showLastUpdateAuthor: true,
-        showLastUpdateTime: true,
+        //showLastUpdateAuthor: true,
+        //showLastUpdateTime: true,
       })
     ],
   ],
@@ -73,8 +73,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/gweicz/docs/edit/master/',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
+          //showLastUpdateAuthor: true,
+          //showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -106,7 +106,7 @@ const config = {
           },
           {
             to: 'komunita/in-english',
-            position: 'left',
+            position: 'right',
             label: 'In English 🇬🇧'
           },
           {
