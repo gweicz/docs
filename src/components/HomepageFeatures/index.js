@@ -45,7 +45,6 @@ const FeatureList = [
 
 function Feature({Svg, title, description, href, buttonText, buttonHref, inversible}) {
   const { colorMode } = useColorMode();
-  console.log(inversible)
 
   return (
     <div className={clsx('col col--4')}>

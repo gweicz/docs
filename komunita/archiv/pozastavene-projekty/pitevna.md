@@ -11,7 +11,7 @@ Pořad je v současné době pozastaven.
 Série otevřených rozhovorů, kde společně snažíme představit a rozebrat jeden konkrétní fenomén v Ethereu, DeFi nebo kryptoměnách obecně.
 
 * Den a čas: **středa 20:00** ([kalendář](https://forum.gwei.cz/calendar))
-* Místo: [#etheroom](../../udalosti/etheroom/)
+* Místo: #etheroom
 * Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@m0xt](https://forum.gwei.cz/u/m0xt)
 
 ### Plánované díly
@@ -29,7 +29,7 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 | #0  | 08.04.2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335)                     |                                                   |
 
 {% hint style="success" %}
-Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly/discord.md) v kanálu #komunita.
+Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na Discordu v kanálu #komunita.
 {% endhint %}
 
 ### Další témata do budoucna

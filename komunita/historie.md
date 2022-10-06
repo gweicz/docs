@@ -30,15 +30,15 @@ description: Důležité milníky naší komunity
 
 ### Březen 2021
 
-* 25.03.2021 - Náš [_Discord_](komunikacni-kanaly/discord.md) chat překonal hranici 500 uživatelů.
+* 25.03.2021 - Náš _Discord_ chat překonal hranici 500 uživatelů.
 * 10.03.2021 - Inagurace [_Gwei.cz Councilu_](council/) (rada starších).
 
 ### Únor 2021
 
-* 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](udalosti/etheroom/palime-ether.md)" (#etheroom).
+* 15.02.2021 - První díl pravidelného pořadu "_Pálíme Ether_" (#etheroom).
 * 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](archiv/pozastavene-projekty/inkubator.md)" (#etheroom).
 * 03.02.2021 - [_Governance Call_](council/governance-call/) _#0_. Historicky první veřejný call v naší #etheroom.
-* 03.02.2021 - Vznik hlasové místnosti [_#etheroom_](udalosti/etheroom/) na našem Discord chatu.
+* 03.02.2021 - Vznik hlasové místnosti _#etheroom_ na našem Discord chatu.
 
 ## 2020
 
@@ -59,13 +59,13 @@ description: Důležité milníky naší komunity
 * 24.03.2020 - Dokončená inicializace _Gwei.cz DAO v1_ (4 zakládající členové).
 * 15.03.2020 - Nový projekt [_Srovnávač kurzů kryptoměn_](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md) _(kurzy.gwei.cz)_.
 * 02.03.2020 - Nová webová stránka [_gwei.cz_](https://gwei.cz) koncipovaná jako knowledge-base.
-* 01.03.2020 - Komunitní [_Discord_](komunikacni-kanaly/discord.md) pokořil metu 50 členů.
+* 01.03.2020 - Komunitní _Discord_ pokořil metu 50 členů.
 
 ### Únor 2020
 
 * 29.02.2020 - Nový projekt [_Přehled CZ/SK kryptoscény_](archiv/pozastavene-projekty/czsk-kryptoscena.md)_._
 * 24.02.2020 - Založen Twitter účet [_@gweicz_](https://twitter.com/gweicz).
-* 13.02.2020 - Založen komunitní [_Discord_](komunikacni-kanaly/discord.md) (chat).
+* 13.02.2020 - Založen komunitní _Discord_ (chat).
 * 12.02.2020 - Projekt [_dCZK_](archiv/pozastavene-projekty/dczk-stablecoin.md) zveřejněn na našem GitHubu.
 * 09.02.2020 - Založena GitHub organizace [_gweicz_](https://github.com/gweicz/).
 

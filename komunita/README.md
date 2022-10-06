@@ -9,7 +9,7 @@
 Ke komunitě se může přidat každý, a to hned na několika [platformách](komunikacni-kanaly/):
 
 * Na [Fóru](https://forum.gwei.cz), kde řešíme spíše komunitní věci (projekty, akce, atd.)
-* Na nášem [Discord](https://chat.gwei.cz) chatu, kde se bavíme o novinkách či pomáháme nováčkům a probíhají zde i také pravidelné setkání v místnosti [#etheroom](udalosti/etheroom/)
+* Na nášem [Discord](https://chat.gwei.cz) chatu, kde se bavíme o novinkách či pomáháme nováčkům a probíhají zde i také pravidelné setkání v místnosti #etheroom
 * Můžete nás sledovat i na [Twitteru](https://twitter.com/gweicz), kde informujeme o novinkách
 
 Můžete nám také [**pomoci s rozvojem komunitních projektů**](podporte-nas/), na kterých společně pracujeme a pomáháme tak celému Ethereum ekosystému.
