@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Gwei.cz',
+  title: 'gwei.cz',
   tagline: 'Společně tvoříme nový svobodný finanční systém a internet nové generace (Web3)',
   url: 'https://new.gwei.cz',
   baseUrl: '/',
@@ -26,6 +26,8 @@ const config = {
     defaultLocale: 'cs',
     locales: ['cs'],
   },
+
+  scripts: [{src: 'https://analytics.gwei.cz/js/script.js', async: true, defer: true, 'data-domain': 'docs.gwei.cz'}],
 
   themes: [
     [

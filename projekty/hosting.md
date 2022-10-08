@@ -26,6 +26,9 @@ Věříme ve svobodný, otevřený a decentralizovaný internet a chceme mít ko
 | [**Discourse**](hosting/discourse.md) | [forum.gwei.cz](https://forum.gwei.cz) | Diskuzní fórum |
 | [**Gitea**](hosting/gitea.md) | [git.gwei.cz](https://git.gwei.cz) | Git repository hosting |
 | [**Jitsi**](hosting/jitsi.md) | [meet.gwei.cz](https://meet.gwei.cz) | Video-konfereční platforma |
+| **Plausible** | [analytics.gwei.cz](https://analytics.gwei.cz) | Webová analytika |
+| **Authentik** | [auth.gwei.cz](https://auth.gwei.cz) | Jednotné přihlášení Gwei.cz |
+| **SIWE** | [siwe.gwei.cz](https://siwe.gwei.cz) | Sign-In With Ethereum OIDC |
 
 ## Ostatní služby (neveřejné)
 
