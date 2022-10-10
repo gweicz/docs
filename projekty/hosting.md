@@ -23,12 +23,14 @@ Věříme ve svobodný, otevřený a decentralizovaný internet a chceme mít ko
 
 | Typ | Adresa | Popis |
 | --- | --- | --- |
-| [**Discourse**](hosting/discourse.md) | [forum.gwei.cz](https://forum.gwei.cz) | Diskuzní fórum |
-| [**Gitea**](hosting/gitea.md) | [git.gwei.cz](https://git.gwei.cz) | Git repository hosting |
-| [**Jitsi**](hosting/jitsi.md) | [meet.gwei.cz](https://meet.gwei.cz) | Video-konfereční platforma |
-| **Plausible** | [analytics.gwei.cz](https://analytics.gwei.cz) | Webová analytika |
-| **Authentik** | [auth.gwei.cz](https://auth.gwei.cz) | Jednotné přihlášení Gwei.cz |
-| **SIWE** | [siwe.gwei.cz](https://siwe.gwei.cz) | Sign-In With Ethereum OIDC |
+| [**Discourse**](hosting/discourse.md) | [forum.gwei.cz](https://forum.gwei.cz) | Diskuzní fórum ([Discourse](https://www.discourse.org/)) |
+| [**Gitea**](hosting/gitea.md) | [git.gwei.cz](https://git.gwei.cz) | Git repository hosting ([Gitea](https://gitea.io/)) |
+| [**Jitsi**](hosting/jitsi.md) | [meet.gwei.cz](https://meet.gwei.cz) | Video-konfereční platforma ([Jitsi](https://jitsi.org/)) |
+| **Plausible** | [analytics.gwei.cz](https://analytics.gwei.cz) | Webová analytika ([Plausible](https://plausible.io/)) |
+| **Cinny** | [cinny.gwei.cz](https://cinny.gwei.cz) | [Cinny](https://cinny.in/) Matrix web klient |
+| **MicroBin** | [bin.gwei.cz](https://bin.gwei.cz) | Paste bin ([MicroBin](https://github.com/szabodanika/microbin)) |
+| **Authentik** | [auth.gwei.cz](https://auth.gwei.cz) | Jednotné přihlášení Gwei.cz ([Authentik](https://goauthentik.io/)) |
+| **SIWE** | [siwe.gwei.cz](https://siwe.gwei.cz) | Sign-In With Ethereum OIDC ([info](https://login.xyz/)) |
 
 ## Ostatní služby (neveřejné)
 

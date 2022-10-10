@@ -27,7 +27,7 @@ const config = {
     locales: ['cs'],
   },
 
-  scripts: [{src: 'https://analytics.gwei.cz/js/script.js', async: true, defer: true, 'data-domain': 'docs.gwei.cz'}],
+  scripts: [{src: 'https://x.gwei.cz/js/script.js', async: true, defer: true, 'data-domain': 'docs.gwei.cz'}],
 
   themes: [
     [
