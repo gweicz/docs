@@ -5,16 +5,6 @@ pipeline:
       - npm ci
       - npm run build
   deploy:
-    image: drillster/drone-rsync
-    settings:
-      key:
-        from_secret: gweicz-docs-deploy-ssh-key
-      hosts:
-        - frontier.gwei.cz
-      port: 2022
-      user: gweicz-docs-deploy
-      delete: true
-      source: build
-      target: /docs-web
-    when:
-      branch: [master]
+    image: rclone/rclone
+    commands:
+      - "rclone sync build/ :sftp: --sftp-host frontier.gwei.cz --sftp-user gweicz-docs-deploy --sftp-port 2022 --sftp-pass $RCLONE_PASS -v"
