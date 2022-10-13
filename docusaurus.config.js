@@ -55,7 +55,7 @@ const config = {
         routeBasePath: 'projekty',
         sidebarPath: require.resolve('./sidebarsProjekty.js'),
         editUrl:
-          'https://github.com/gweicz/docs/edit/master/',
+          'https://git.gwei.cz/gweicz/docs/_edit/master/',
         //showLastUpdateAuthor: true,
         //showLastUpdateTime: true,
       })
@@ -108,8 +108,13 @@ const config = {
           },
           {
             to: 'komunita/in-english',
-            position: 'right',
+            position: 'left',
             label: 'In English 🇬🇧'
+          },
+          {
+            href: 'https://status.gwei.cz',
+            label: 'Status',
+            position: 'right',
           },
           {
             href: 'https://forum.gwei.cz',
