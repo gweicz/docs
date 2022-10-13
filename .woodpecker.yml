@@ -12,6 +12,7 @@ pipeline:
       hosts:
         - frontier.gwei.cz
       port: 2022
+      user: gweicz-docs-deploy
       delete: true
       source: build
       target: /docs-web
