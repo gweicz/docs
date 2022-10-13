@@ -16,4 +16,4 @@ pipeline:
       source: build
       target: /docs-web
     when:
-      branch: [main]
+      branch: [master]
