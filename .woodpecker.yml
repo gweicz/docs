@@ -1,6 +1,19 @@
 pipeline:
-  build-and-test:
+  build:
     image: node
     commands:
       - npm ci
       - npm run build
+  deploy:
+    image: drillster/drone-rsync
+    settings:
+      key:
+        from_secret: gweicz-docs-deploy-ssh-key
+      hosts:
+        - frontier.gwei.cz
+      port: 2022
+      delete: true
+      source: build
+      target: /docs-web
+    when:
+      branch: [main]
