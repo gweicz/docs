@@ -7,4 +7,5 @@ pipeline:
   deploy:
     image: rclone/rclone
     commands:
-      - "rclone sync projekty/ :sftp: --sftp-host frontier.gwei.cz --sftp-user gweicz-docs-deploy --sftp-port 2022 --sftp-pass $$RCLONE_PASS -v"
+      - "rclone sync projekty/ :sftp: --sftp-host frontier.gwei.cz --sftp-user gweicz-docs-deploy --sftp-port 2022 --sftp-pass $RCLONE_PASS -v"
+    secrets: [ RCLONE_PASS ]
