@@ -1,0 +1,6 @@
+pipeline:
+  build-and-test:
+    image: jarredsumner/bun:edge
+    commands:
+      - bun i
+      - bun run build
