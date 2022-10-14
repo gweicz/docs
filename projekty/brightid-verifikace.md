@@ -30,7 +30,7 @@ Pro průzkum a vizualizaci můžete využít [BrightID Explorer](https://explore
 | Jméno                                               | Matrix         |
 | --------------------------------------------------- | -------------- |
 | [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)     | ?              |
-| [@tree](https://forum.gwei.cz/u/tree)               | @tree:gwei.cz  |
+| [@tree](https://forum.gwei.cz/u/tree)               | [@tree:gwei.cz](https://matrix.to/#/@tree:gwei.cz) |
 | [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) | ?              |
 
 ## Matrix kanál

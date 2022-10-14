@@ -48,10 +48,10 @@ function Feature({Svg, title, description, href, buttonText, buttonHref, inversi
 
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
+      <div className="text--center" style={{paddingTop: '3em'}}>
         <Link href={buttonHref}>
           {inversible
-              ? <Svg className={styles.featureSvg} role="img" style={colorMode === 'dark' ? { filter: 'invert(100%)' } : {}} />
+              ? <Svg className={styles.featureSvg} role="img" style={colorMode === 'dark' ? { filter: 'invert(100%);' } : {}} />
               : <Svg className={styles.featureSvg} role="img" />
           }
         </Link>

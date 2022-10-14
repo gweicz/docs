@@ -160,14 +160,22 @@ const config = {
                 href: 'https://matrix.gwei.cz',
               },
               {
+                label: 'Mastodon',
+                href: 'https://social.gwei.cz',
+              },
+              {
                 label: 'Twitter',
                 href: 'https://twitter.com/gweicz',
               },
             ],
           },
           {
-            title: 'Projekty',
+            title: 'Projekty a služby',
             items: [
+              {
+                label: 'Status',
+                href: 'https://status.gwei.cz',
+              },
               {
                 label: 'BohemianDAO',
                 href: 'https://bohemiandao.cz',
