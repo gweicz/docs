@@ -35,7 +35,7 @@ Pořádáme hackathony, konference, workshopy, meetupy nebo online setkání, kd
 
 Dáváme dohromady také vzdělávací materiály nebo užitečné seznamy o Ethereu, jeho ekosystému nebo souvisejících technologiích.
 
-* [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit) - seznam nástrojů, 	pro každého uživatele Etherea a decentralizovaných financí
+* [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit) - seznam nástrojů, pro každého uživatele Etherea a decentralizovaných financí
 * [DAO Příručka](https://dao.gwei.cz/) - základní informace o tom co jsou to DAO a jak fungují
 
 ## Iniciativy

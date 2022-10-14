@@ -26,3 +26,6 @@ Neexistuje žádný generální ředitel, který by mohl schvalovat výdaje na z
 
 Standartizované rozhraní pro interakci Ethereum peněženky a webové stránky se nazývá Web3. Toto rozhraní umožňuje vývojářům dělat webové služby, pomocí kterých uživatelé mohou komunikovat s [chytrými kontrakty](klicove-pojmy.md#chytré-kontrakty-smart-kontrakty). Na desktopu jsou tyto peněženky většinou ve formě doplňku do prohlížeče - na mobilních zařízeních naopak prohlížeč integrují uvnitř aplikace. Případně je možné použít univerzální propojení pomocí [WalletConnect](https://walletconnect.com/). Zdaleka nejpoužívanější Web3 peněženkou je [MetaMask](https://metamask.io/).
 
+## Free and open-source software (FOSS)
+
+FOSS znamená svobodný a otevřený software. Neznamená to, že software je zdarma. Znamená to, že zdrojový kód softwaru je otevřený pro všechny a kdokoli může tento kód volně používat, studovat a upravovat. Tento princip umožňuje ostatním lidem přispívat k vývoji a vylepšování softwaru jako komunita.

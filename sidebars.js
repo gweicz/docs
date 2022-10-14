@@ -31,6 +31,7 @@ const sidebars = {
         'komunikacni-kanaly/mastodon',
         //'komunikacni-kanaly/blog',
         'komunikacni-kanaly/twitter',
+        'komunikacni-kanaly/discord',
       ],
     },
     'nastroje',
