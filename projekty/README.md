@@ -1,12 +1,6 @@
-# Co děláme?
+# Naše projekty a služby
 
-V této sekci se můžete seznámit se všemi projekty, které naše komunita buduje, nebo službami, které spravujeme a provozujeme. 
-
-:::info Líbí se vám co děláme?
-
-Všechny tyto aktivity můžeme dělat jenom díky lidem, kteří nás [podporují](/komunita/podporte-nas), ať už finančně nebo jinak. Děkujeme!
-
-:::
+V této sekci se můžete seznámit s projekty, které vytváříme, nebo službami, které spravujeme a provozujeme. 
 
 ## Hostované služby
 
@@ -14,7 +8,51 @@ Věříme ve svobodný, otevřený a decentralizovaný internet a chceme mít ko
 
 Máme například vlastní [Ethereum node](./hosting/ethereum-node.md), [Matrix homeserver](./hosting/matrix.md), [Tor Relay](./hosting/tor.md), [Gitea (git hosting)](./hosting/gitea.md) a mnoho dalšího. Některé služby provozujeme veřejně, to znamená, že je může využít kdokoli!
 
-* [Seznam všech hostovaných služeb](./hosting.md)
+### Decentralizované sítě
+
+| Typ | Adresa | Popis |
+| --- | --- | --- |
+| [**Ethereum node**](/projekty/hosting/ethereum-node) 🔒 | - | Ethereum full-node (geth+lighthouse) |
+| **Bitcoin node** 🔒 | - | Bitcoin Core node (pod [UTXO Foundation](https://utxo.foundation/)) |
+| **LN node** 🔒 | [`021bd8...67b0ab`](https://amboss.space/node/021bd8fb45d9d63b80e655b8dc4873c9ebaf29c4121a2a8fb0beed56229767b0ab) | Lightning Network node (Core Lightning) (pod [UTXO Foundation](https://utxo.foundation/)) |
+| [**Tor relay**](/projekty/hosting/tor) | [`F36E7C...D4B528`](https://metrics.torproject.org/rs.html#details/F36E7C8746649077DA254397F721851ABBD4B528) | Tor Network Relay and CZ exit node |
+| [**IPFS node**](/projekty/hosting/ipfs) | [ipfs.gwei.cz](https://ipfs.gwei.cz/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m) | InterPlanetary File System (IPFS) node |
+
+<!---
+```mdx-code-block
+import ProjectList from '@site/src/components/ProjectList';
+
+<ProjectList />
+```
+--->
+
+### Federativní sítě
+
+| Typ | Adresa | Popis |
+| --- | --- | --- |
+| [**Matrix homeserver**](/projekty/hosting/matrix-homeserver) | `gwei.cz` | Otevřený federativní komunikační protokol |
+| [**Mastodon**](/projekty/hosting/mastodon) | [social.gwei.cz](https://social.gwei.cz) | Otevřená sociální síť podobná twitteru |
+
+### Ostatní (veřejné)
+
+| Typ | Adresa | Popis |
+| --- | --- | --- |
+| [**Gitea**](hosting/gitea.md) | [git.gwei.cz](https://git.gwei.cz) | Git repository hosting ([Gitea](https://gitea.io/)) |
+| [**Jitsi**](hosting/jitsi.md) | [meet.gwei.cz](https://meet.gwei.cz) | Video-konfereční platforma ([Jitsi](https://jitsi.org/)) |
+| **Plausible** | [analytics.gwei.cz](https://analytics.gwei.cz) | Webová analytika ([Plausible](https://plausible.io/)) |
+| **Cinny** | [cinny.gwei.cz](https://cinny.gwei.cz) | [Cinny](https://cinny.in/) Matrix web klient |
+| **MicroBin** | [bin.gwei.cz](https://bin.gwei.cz) | Paste bin ([MicroBin](https://github.com/szabodanika/microbin)) |
+| **Authentik** | [auth.gwei.cz](https://auth.gwei.cz) | Jednotné přihlášení Gwei.cz ([Authentik](https://goauthentik.io/)) |
+| **SIWE** | [siwe.gwei.cz](https://siwe.gwei.cz) | Sign-In With Ethereum OIDC ([info](https://login.xyz/)) |
+
+### Ostatní (neveřejné)
+
+| Typ | Adresa | Popis |
+| --- | --- | --- |
+| [**Pretix**](hosting/pretix.md) | [pretix.utxo.cz](https://pretix.utxo.cz) | Software pro prodej vstupenek (pod [UTXO Foundation](https://utxo.foundation/)) |
+| [**BTCPayServer**](hosting/btcpayserver.md) | [btcpay.utxo.cz](https://btcpay.utxo.cz) | Kryptoměnová platební brána (pod [UTXO Foundation](https://utxo.foundation/)) |
+| [**Woodpecker CI**](hosting/woodpecker.md) | [ci.gwei.cz](https://ci.gwei.cz) | CI software |
+
 
 ## Ostatní služby
 
@@ -22,27 +60,9 @@ Pro lokální komunitu poskytujeme i různé další služby, například ověř
 
 * [BrightID verifikace](./brightid-verifikace.md)
 
-## Události
-
-Pořádáme hackathony, konference, workshopy, meetupy nebo online setkání, kde vzděláváme ostatní o kryptoměnách nebo obecně svobodných a decentralizovaných technologiích. Rádi vás na nějaké naší akci uvidíme!
-
-* [ETHBrno hackathon](https://ethbrno.cz)
-* [UTXO konference](https://utxo.cz)
-* [BeerFi Prague meetup](./beerfi.md)
-* [Pálíme Ether (online setkání)](./palime-ether.md)
-
 ## Dokumentace
 
 Dáváme dohromady také vzdělávací materiály nebo užitečné seznamy o Ethereu, jeho ekosystému nebo souvisejících technologiích.
 
 * [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit) - seznam nástrojů, pro každého uživatele Etherea a decentralizovaných financí
 * [DAO Příručka](https://dao.gwei.cz/) - základní informace o tom co jsou to DAO a jak fungují
-
-## Iniciativy
-
-Jsme iniciátoři několika dalších nezávislých a neziskových organizací nebo platforem, které pomáhají šířit osvětu o kryptoměnách nebo posouvat ekosystém dál.
-
-* [BohemianDAO](https://docs.bohemiandao.cz/) - neziskové lokální DAO podporující vzdělání a adopci platformy Ethereum a DeFi
-* [UTXO Foundation, z.s.](https://utxo.foundation/) - neziskový spolek pořádající kulturně-vzdělávací události o kryptoměnách
-* [dCZK think tank](https://forum.dczk.cz/) - iniciativa pro vznik decentralizovaného stablecoinu navázaný na českou korunu (CZK)
-* [Bankless.cz](https://bankless.cz/) - novinkový a vzdělávací web o kryptoměnách

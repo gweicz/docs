@@ -4,24 +4,6 @@
 
 ![](.gitbook/assets/eth-overview.png)
 
-### :handshake: Přidejte se k nám
-
-Ke komunitě se může přidat každý, a to hned na několika [komunikačních kanálech](komunikacni-kanaly/):
-
-* Na [Fóru](https://forum.gwei.cz), kde řešíme spíše komunitní věci (projekty, akce, atd.)
-* Na nášem [Matrix](https://matrix.gwei.cz) chatu, kde se bavíme o novinkách či pomáháme nováčkům
-* Můžete nás sledovat i na [Twitteru](https://twitter.com/gweicz), kde informujeme o novinkách
-
-Pokud se chcete zapojit více aktivněji, můžete nám pomoci s rozvojem komunitních [projektů a služeb](/projekty), na kterých společně pracujeme - a nebo nás [podpořit finančně](podporte-nas/financni-podpora).
-
-Každá komunita musí být alespoň v omezené míře spravována - u nás k tomu slouží [Council](council), který je aktuálně složený z 16-ti ethereum pozitivních lidí.
-
-:::tip Co to znamená "gwei"?
-
-`Gwei` znamená "giga-wei", tedy milion "wei". `Wei` je [nejmenší monetární jednotka Etheru](https://ethereum.org/en/developers/docs/intro-to-ether/#denominations) (ETH). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.
-
-:::
-
 ### ✨ Naše hodnoty
 
 * Otevřenost
@@ -34,5 +16,22 @@ Každá komunita musí být alespoň v omezené míře spravována - u nás k to
 ### :tada: Naše cíle
 
 * Šíření osvěty o Ethereu, DeFi a dalších otevřených kryptoměnách
-* Tvorba projektů nebo alespoň podpora nově vznikajících projektů
-* Tvorba komunikačního a informačního prostoru pro všechny příznivce stejných hodnot
+* Tvorba [komunikačního a informačního prostoru](/komunita/komunikacni-kanaly) pro všechny příznivce stejných hodnot
+* Pořádání různých pravidelných [online či offline událostí](/udalosti)
+* Tvorba nebo podpora nově vznikajících [edukačních projektů](/projekty) a provozování [užitečných služeb](/projekty)
+
+### :handshake: Přidejte se k nám
+
+Ke komunitě se může přidat každý, a to hned na několika [komunikačních kanálech](komunikacni-kanaly/):
+
+* Na [Fóru](/komunita/komunikacni-kanaly/forum), kde řešíme spíše komunitní věci (projekty, akce, atd.)
+* Na nášem [Matrix](/komunita/komunikacni-kanaly/matrix) chatu, kde se bavíme o novinkách či pomáháme nováčkům
+* Můžete nás sledovat i na [Twitteru](/komunita/komunikacni-kanaly/twitter), kde informujeme o novinkách
+
+Pokud se chcete zapojit více aktivněji, můžete nám pomoci s organizací [našich událostí](/udalosti), nebo pomoci s rozvojem komunitních [projektů a služeb](/projekty) - případně nás [podpořit finančně](podporte-nas/financni-podpora).
+
+Každá komunita musí být alespoň v omezené míře spravována - u nás k tomu slouží [Council](council), který je aktuálně složený z 16-ti ethereum pozitivních lidí.
+
+:::tip Co to znamená "gwei"?
+`Gwei` znamená "giga-wei", tedy milion "wei". `Wei` je [nejmenší monetární jednotka Etheru](https://ethereum.org/en/developers/docs/intro-to-ether/#denominations) (ETH). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.
+:::

@@ -11,6 +11,7 @@ description: Naše spolupráce
 | [**Holky v kryptu**](https://holkyvkryptu.cz/) | Iniciativa, která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. |
 | [**Paralelní Polis**](https://paralelnipolis.cz) | Prostor, ve kterém naleznete první bitcoinovou kavárnu na světě (Bitcoin Coffee), coworkingový prostor (Paper Hub), multifunkční sál (Institut kryptoanarchie) a další unikátní projekty. |
 | [**Bordel Hackerspace**](https://bordel.paralelnipolis.cz/#/) | Bordel je malý komunitní hackerspace, který se nachází v suterénu Paralelní Polis v Praze. |
+| [**KryptoSpace**](https://kryptospace.cz) | Podcast KryptoSpace Petra Lukáče je váš průvodce světem kryptoměn. Nepropásněte vaši týdenní dávku novinek, rozhovorů a analýz všeho od Bitcoinu a Etherea až po DeFi, NFTs a GameFi. |
 | [**KryptoVláďa**](https://www.kryptovlada.win/) | Youtuber jehož cílem je ukázat, jak fascinující je svět kryptoměn a co všechno nám mohou blockchainové technologie přinést. |
 | [**Coinstory.tech**](https://coinstory.tech/) | Vzdělávací projekt, jehož cílem je poskytnout ucelený pohled na oblast kryptoměn a jejich vývoj a nezaujatým způsobem prozkoumat kryptoměny, aby jim lidé lépe porozuměli. |
 | [**Bankless.cz**](https://bankless.cz/) (neaktivní) | Novinkový a vzdělávací web o kryptoměnách. |

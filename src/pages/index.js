@@ -30,7 +30,7 @@ function HomepageHeader() {
                 </Link>
                 <Link
                   className="button button--secondary button--lg"
-                  href="/projekty">
+                  href="/komunita/co-delame">
                   Co děláme?
                 </Link>
             </div>

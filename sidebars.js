@@ -20,6 +20,7 @@ const sidebars = {
   
   doc: [
     'README',
+    'co-delame',
     'klicove-pojmy',
     {
       type: 'category',
@@ -35,21 +36,21 @@ const sidebars = {
       ],
     },
     'nastroje',
+    'pokladna',
     {
       type: 'category',
       label: 'Council',
       link: { type: 'doc', id: 'council/README' },
       items: [
         'council/clenove',
-        'council/pokladna',
-        {
-          type: 'category',
-          label: 'Governance Call',
-          link: { type: 'doc', id: 'council/governance-call/README' },
-          items: [
-            'council/governance-call/seznam-setkani',
-          ],
-        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Governance Call',
+      link: { type: 'doc', id: 'governance-call/README' },
+      items: [
+        'governance-call/seznam-setkani',
       ],
     },
     'historie',

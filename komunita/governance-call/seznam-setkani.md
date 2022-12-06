@@ -2,15 +2,15 @@
 description: Seznam všech setkání našeho Councilu
 ---
 
-# Seznam setkání
+# Seznam Governance Calls
 
-Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) setkání.
+Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) setkání našeho [Councilu](../council/).
 
 ## Plánované
 
 | Číslo                                                 | Datum      | Organizátor                           |
 | ----------------------------------------------------- | ---------- | ------------------------------------- |
-| [#20](https://forum.gwei.cz/t/governance-call-20/565) | 12.10.2022 | [@tree](https://forum.gwei.cz/u/tree) |
+| [#20](https://forum.gwei.cz/t/governance-call-20/565) | 07.12.2022 | [@tree](https://forum.gwei.cz/u/tree) |
 
 ## Uskutečněné
 
@@ -38,5 +38,9 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 | #0                                                                    | 03.02.2021 | [@tree](https://forum.gwei.cz/u/tree)               |
 
 {% hint style="info" %}
-V organizaci callů se střídají členové našeho [Councilu](../).
+
 {% endhint %}
+
+:::info
+V organizaci callů se střídají členové našeho [Councilu](../council/).
+:::

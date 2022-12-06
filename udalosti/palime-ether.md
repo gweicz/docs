@@ -1,9 +1,10 @@
-# Pálíme Ether (online setkání)
+# Pálíme Ether
+
+- Termín konání: **každé druhé úterý 21:00**
+- Místo: online - [meet.gwei.cz/palime-ether](https://meet.gwei.cz/palime-ether)
 
 Setkání nad nejzajímavějšími událostmi z Ethereum ekosystému nebo kryptoměnového světa za poslední dva týdny.
 
-* Den a čas: **každé druhé úterý 21:00**
-* Místo: online - [meet.gwei.cz/palime-ether](https://meet.gwei.cz/palime-ether)
 * Moderátoři: @radek, @tree
 
 ## Hlavní témata
@@ -13,7 +14,5 @@ Setkání nad nejzajímavějšími událostmi z Ethereum ekosystému nebo krypto
 * o čem se mluvilo na sociálních sítích
 
 :::tip
-
 Kdokoliv se může zapojit do debaty, nebo otevřít téma které ho v posledních dnech zaujalo. Podpořte projekty, které vás zajímají, tím že se o nich zmíníte!
-
 :::

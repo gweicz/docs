@@ -29,21 +29,11 @@ V organizaci governance callu se střídají členové našeho [Councilu](../). 
 
 ### Úkoly organizátora
 
-#### **Příprava**
-
-* Vytvořit novou událost jako vlákno na našem fóru.
-  * nadpis: `Governance Call #<číslo>`
-  * kategorie: #etheroom
-  * přidat event - zadat datum a čas, povolit RSVP
-  * v popisu musí být odkaz na toto vlákno série
-* Připravit program - tedy jednotlivé body, které budeme probírat.
-
-#### **Call**
-
-* Upozornit na call 5 min před začátkem na našem Discordu (kanál #general).
-  * Využít označení `@everyone`.
-    * Přivítání účastníků.
-    * Hlídání dodržování harmonogramu.
-    * Moderování diskuze.
-    * Musí zajistit, že bude organizace dalšího callu předána někomu dalšímu.
-
+* Vytvořit novou událost jako vlákno na našem fóru
+* Připravit program - tedy jednotlivé body, které budeme probírat
+* Informovat o callu ostatní prostřednictvím komunikačních kanálů
+* Moderace průběhu samotného callu:
+  * Přivítání účastníků
+  * Hlídání dodržování harmonogramu
+  * Moderování diskuze
+  * Musí zajistit, že bude organizace dalšího callu předána někomu dalšímu

@@ -7,7 +7,7 @@ Celkem členů: **16**
 | [@AdamCrypto](https://forum.gwei.cz/u/adamcrypto)      |                         | AdamB#7066           |
 | [@Ajworry](https://forum.gwei.cz/u/ajworry)            |                         | Ajworry#5844         |
 | [@Bohus](https://forum.gwei.cz/u/bohus)                |                         | bohus.eth#5311       |
-| [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) 🔑 |                         | coinmandeer#9287     |
+| [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) 🔑 | [@coinmandeer:gwei.cz](https://matrix.to/#/@coinmandeer:gwei.cz)  | coinmandeer#9287     |
 | [@cryptomar1o](https://forum.gwei.cz/u/cryptomar1o)    |                         | cryptomario#0917     |
 | [@damsky](https://forum.gwei.cz/u/damsky)              | [@damsky:matrix.org](https://matrix.to/#/@damsky:matrix.org)      | damsky#0879          |
 | [@KryptoVlada](https://forum.gwei.cz/u/kryptovlada)    |                         | KryptoVláďa.eth#5246 |

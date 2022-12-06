@@ -6,6 +6,12 @@ description: Rada starších
 
 Nejaktivnější členové naší komunity, kteří společně komunitu řídí, směrují a vystupují za ní navenek.
 
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```
+
 ## Úkoly councilu
 
 * Řízení a směrování komunity
@@ -13,13 +19,5 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 * Moderace [komunikačních kanálů](../komunikacni-kanaly/)
 * Rozvíjení [nástrojů a dokumentace](../nastroje/)
 * Správa [pokladny](pokladna.md) 🔑
-* Organizace [Governance Callů](governance-call/)
-
----
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```
+* Organizace [Governance Callů](/komunita/governance-call/)
 

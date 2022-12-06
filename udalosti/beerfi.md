@@ -1,16 +1,17 @@
-# BeerFi Prague meetup
+# BeerFi Prague
 
-:::info
-
-Meetup je anglickém jazyce 🇬🇧 a je určený pro vývojáře.
-
-:::
+- Termín konání: **poslední úterý v měsíci** (od 19:00)
+- Místo: Praha, aktuálně [Dílna](https://www.kafevdilne.cz/)
 
 Každé úterý v posledním týdnu v měsíci se společně scházejí programátoři z oblasti Web3. Ať už jste Web2 vývojář a chcete se dozvědět více, nebo jste ve sféře Web3 seniorní, naše setkání je tu pro vás!
 
-Setkání je zaměřeno na vývoj smart-kontraktů. Velmi technické věci - až po byte kód. Ne frontendy a JS frameworky - na ty jsou jiné meetupy.
+Setkání je zaměřeno na vývoj smart-kontraktů. Velmi technické věci - až po byte kód. Ne frontendy a JS frameworky, na ty jsou jiné meetupy.
 
 Více informací o aktuálním setkání a přihlášky: [meetup.com/web3-on-chain-dev-meetup-group](https://www.meetup.com/web3-on-chain-dev-meetup-group/)
+
+:::info
+Meetup je anglickém jazyce 🇬🇧 a je určený především pro vývojáře [smart-kontraktů](/komunita/klicove-pojmy#chytré-kontrakty-smart-kontrakty).
+:::
 
 ## Odkazy
 

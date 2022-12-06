@@ -13,22 +13,22 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 * organizace komunitních meetupů a hackatonů
 * podpora zajímavých komunitních projektů
 
-## Adresa pro finanční dary
+## Adresy pro finanční dary
 
-### Ethereum <img src="../.gitbook/assets/network-ethereum.png" alt="" data-size="line" />
+### Ethereum<img src={require('../.gitbook/assets/network-ethereum.png').default} alt="" className="inline-image" />
 
 **Ether (ETH)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
 
 `0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9` - [gweicz.eth](https://etherscan.io/address/0x6c171579f8f3c3f65b30286b14c20a46a4eb55b9)
 
-[![](../.gitbook/assets/donate-qr.png)](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)__
+[![](../.gitbook/assets/donate-qr.png)](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)
 
-{% hint style="warning" %}
-Tato adresa je platná jen pro Ethereum mainnet, ne pro Polygon nebo další sítě - na těch máme jiné adresy, viz. níže.
-{% endhint %}
+:::caution Pozor
+Tato adresa je platná jen pro **Ethereum mainnet**, ne pro Polygon nebo další sítě - na těch máme jiné adresy, viz. níže.
+:::
 
-Naše adresy na další síťě - na xDai <img src="../.gitbook/assets/network-xdai.png" alt="" data-size="line" />, Polygonu <img src="../.gitbook/assets/network-polygon.png" alt="" data-size="line" /> nebo Arbitrum <img src="../.gitbook/assets/network-arbitrum.png" alt="" data-size="line" /> naleznete na stránce [Council -> Pokladna](../council/pokladna.md#prehled-uctu).
+Naše adresy na další síťě - na Gnosis Chain, Polygon, nebo Arbitrum naleznete na stránce [Pokladna](../pokladna#prehled-uctu).
 
 ## Kdo může s dary nakládat?
 
-Prostředky jsou ve správě našeho councilu v [Pokladně](../council/pokladna.md).&#x20;
+Prostředky jsou ve správě našeho councilu v [Pokladně](../pokladna).&#x20;

@@ -60,6 +60,19 @@ const config = {
         //showLastUpdateTime: true,
       })
     ],
+    [
+      'content-docs',
+      ({
+        id: 'udalosti',
+        path: 'udalosti',
+        routeBasePath: 'udalosti',
+        sidebarPath: require.resolve('./sidebarsUdalosti.js'),
+        editUrl:
+          'https://git.gwei.cz/gweicz/docs/_edit/master/',
+        //showLastUpdateAuthor: true,
+        //showLastUpdateTime: true,
+      })
+    ],
   ],
 
   presets: [
@@ -102,14 +115,14 @@ const config = {
             label: 'Komunita',
           },
           {
+            to: 'udalosti',
+            position: 'left',
+            label: 'Události',
+          },
+          {
             to: 'projekty',
             position: 'left',
             label: 'Projekty a služby',
-          },
-          {
-            to: 'komunita/in-english',
-            position: 'left',
-            label: 'In English 🇬🇧'
           },
           {
             href: 'https://status.gwei.cz',
@@ -145,6 +158,11 @@ const config = {
               {
                 label: 'Podpořte nás',
                 to: '/komunita/podporte-nas',
+              },
+              {
+                to: 'komunita/in-english',
+                position: 'left',
+                label: 'In English 🇬🇧'
               },
             ],
           },

@@ -6,15 +6,28 @@ description: Důležité milníky naší komunity
 
 ## 2022
 
+### Listopad 2022
+
+* 11.-13.11.2022 - Pořádání hackathonu [_ETHBrno²_](https://ethbrno.cz/) (první ročník hackathonu).
+
+### Září 2022
+
+* 30.09.2022 - Založen komunitní [_Matrix_ homeserver](./komunikacni-kanaly/matrix.md) ([matrix.gwei.cz](https://matrix.gwei.cz)).
+* 15.09.2022 - _The Merge_, v rámci kterého jsme uspořádali [pár mimořádných událostí](https://forum.gwei.cz/t/the-merge-lokalni-udalosti-v-nasledujicich-hodinach-a-dnech/562).
+
 ### Červen 2022
 
 * 04.-05.06.2022 - Pořádání konference [_UTXO.22_](http://utxo.cz/) (první ročník).
+
+### Březen 2022
+
+* 10.03.2022 - Oficiální registrace spolku [_UTXO Foundation_](https://utxo.foundation/), s kterým spolupracujeme na tvorbě eventů.
 
 ## 2021
 
 ### Říjen 2021
 
-* 09.10.2021 - Pořádání konference [_ETHBrno 2021_](https://ethbrno.gwei.cz/predchozi-rocniky/2021) __ (první ročník).
+* 09.10.2021 - Pořádání konference [_ETHBrno 2021_](https://ethbrno.gwei.cz/predchozi-rocniky/2021) (první ročník).
 
 ### Červenec 2021
 
@@ -44,12 +57,11 @@ description: Důležité milníky naší komunity
 
 ### Srpen 2020
 
-* 20.08.2020 - První komunitní meetup v Praze - [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8) __ ([událost](https://forum.gwei.cz/t/gwei-cz-community-meetup-0-ct-20-8-2020-praha/91)).
+* 20.08.2020 - První komunitní meetup v Praze - [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8) ([událost](https://forum.gwei.cz/t/gwei-cz-community-meetup-0-ct-20-8-2020-praha/91)).
 
 ### Duben 2020
 
-* 14.04.2020 - Účastnili jsme se 5. kola [_Gitcoin Grants_](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community).
-  * Podpořilo nás 10 lidí a vybrali jsme cca $200.
+* 14.04.2020 - Účastnili jsme se 5. kola [_Gitcoin Grants_](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community). Podpořilo nás 10 lidí a vybrali jsme cca $200.
 * 10.04.2020 - Pokus o spolupráci s [CoinGecko](https://www.coingecko.com/en) - tvoříme český překlad knihy "[How To DeFi](https://landing.coingecko.com/how-to-defi/)".
 
 ### Březen 2020
