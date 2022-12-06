@@ -12,6 +12,10 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 | ----------------------------------------------------- | ---------- | ------------------------------------- |
 | [#20](https://forum.gwei.cz/t/governance-call-20/565) | 07.12.2022 | [@tree](https://forum.gwei.cz/u/tree) |
 
+:::info
+V organizaci callů se střídají členové našeho [Councilu](../council/).
+:::
+
 ## Uskutečněné
 
 | Číslo                                                                 | Datum      | Organizátor                                         |
@@ -36,11 +40,3 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 | [#2](https://forum.gwei.cz/t/governance-call-2/213)                   | 17.02.2021 | [@tree](https://forum.gwei.cz/u/tree)               |
 | #1                                                                    | 10.02.2021 | [@tree](https://forum.gwei.cz/u/tree)               |
 | #0                                                                    | 03.02.2021 | [@tree](https://forum.gwei.cz/u/tree)               |
-
-{% hint style="info" %}
-
-{% endhint %}
-
-:::info
-V organizaci callů se střídají členové našeho [Councilu](../council/).
-:::

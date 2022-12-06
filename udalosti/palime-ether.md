@@ -1,6 +1,6 @@
 # Pálíme Ether
 
-- Termín konání: **každé druhé úterý 21:00**
+- Termín konání: **každé druhé úterý 21:00** (2x měsíčně)
 - Místo: online - [meet.gwei.cz/palime-ether](https://meet.gwei.cz/palime-ether)
 
 Setkání nad nejzajímavějšími událostmi z Ethereum ekosystému nebo kryptoměnového světa za poslední dva týdny.

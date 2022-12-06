@@ -1,6 +1,6 @@
 # BeerFi Prague
 
-- Termín konání: **poslední úterý v měsíci** (od 19:00)
+- Termín konání: **poslední úterý v měsíci 19:00** (1x měsíčně)
 - Místo: Praha, aktuálně [Dílna](https://www.kafevdilne.cz/)
 
 Každé úterý v posledním týdnu v měsíci se společně scházejí programátoři z oblasti Web3. Ať už jste Web2 vývojář a chcete se dozvědět více, nebo jste ve sféře Web3 seniorní, naše setkání je tu pro vás!

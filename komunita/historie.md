@@ -12,6 +12,7 @@ description: Důležité milníky naší komunity
 
 ### Září 2022
 
+* 30.09.2022 - Založena komunitní [_Mastodon_ instance](./komunikacni-kanaly/mastodon.md) ([social.gwei.cz](https://social.gwei.cz)).
 * 30.09.2022 - Založen komunitní [_Matrix_ space](./komunikacni-kanaly/matrix.md) ([matrix.gwei.cz](https://matrix.gwei.cz)).
 * 15.09.2022 - _The Merge_, v rámci kterého jsme uspořádali [pár mimořádných událostí](https://forum.gwei.cz/t/the-merge-lokalni-udalosti-v-nasledujicich-hodinach-a-dnech/562).
 

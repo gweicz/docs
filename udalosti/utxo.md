@@ -13,7 +13,7 @@ Konference je organizována spolkem [UTXO Foundation](https://utxo.foundation/),
 | Pořadí | Název | Datum | Místo |
 | ---    | ---   | ---   | ---   |
 | #3 | **UTXO.23** | červen 2023 | TBA |
-| #1 | **UTXO.22** | 4-5.6.2022 | [Gabriel Loci](https://www.gabrielloci.com/) |
+| #1 | [**UTXO.22**](#utxo22-2022) | 4-5.6.2022 | [Gabriel Loci](https://www.gabrielloci.com/) |
 
 ### UTXO.22 (2022)
 
