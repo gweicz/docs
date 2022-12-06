@@ -8,11 +8,11 @@ description: Důležité milníky naší komunity
 
 ### Listopad 2022
 
-* 11.-13.11.2022 - Pořádání hackathonu [_ETHBrno²_](https://ethbrno.cz/) (první ročník hackathonu).
+* 11.-13.11.2022 - Pořádání hackathonu [_ETHBrno²_](https://ethbrno.cz/) (druhý ročník, poprvé jako mezinárodní hackathon).
 
 ### Září 2022
 
-* 30.09.2022 - Založen komunitní [_Matrix_ homeserver](./komunikacni-kanaly/matrix.md) ([matrix.gwei.cz](https://matrix.gwei.cz)).
+* 30.09.2022 - Založen komunitní [_Matrix_ space](./komunikacni-kanaly/matrix.md) ([matrix.gwei.cz](https://matrix.gwei.cz)).
 * 15.09.2022 - _The Merge_, v rámci kterého jsme uspořádali [pár mimořádných událostí](https://forum.gwei.cz/t/the-merge-lokalni-udalosti-v-nasledujicich-hodinach-a-dnech/562).
 
 ### Červen 2022
