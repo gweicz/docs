@@ -15,7 +15,11 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 
 ## Adresy pro finanční dary
 
-### Ethereum<img src={require('../.gitbook/assets/network-ethereum.png').default} alt="" className="inline-image" />
+```mdx-code-block
+import ethLogo from '../.gitbook/assets/network-ethereum.png';
+```
+
+### Ethereum<img src={ethLogo} alt="" className="inline-image" />
 
 **Ether (ETH)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
 

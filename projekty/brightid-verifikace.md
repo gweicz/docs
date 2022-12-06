@@ -25,13 +25,12 @@ Verifikace na BrightID je zdarma, a obnáší jen 5-minutový videohovor!
 
 Pro průzkum a vizualizaci můžete využít [BrightID Explorer](https://explorer.brightid.org/).
 
-### Členové verifikační skupiny 
+### Členové verifikační skupiny
 
 | Jméno                                               | Matrix         |
 | --------------------------------------------------- | -------------- |
-| [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)     | ?              |
 | [@tree](https://forum.gwei.cz/u/tree)               | [@tree:gwei.cz](https://matrix.to/#/@tree:gwei.cz) |
-| [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) | ?              |
+| [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) | [@coinmandeer:gwei.cz](https://matrix.to/#/@coinmandeer:gwei.cz) |
 
 ## Matrix kanál
 

@@ -11,4 +11,4 @@ K naší činnosti využíváme velkou škálu nástrojů a spoustu z nich si sa
 | **HackMD** | [hackmd.io/@gweicz](https://hackmd.io/@gweicz) | Dokumenty a zápisky | ❌ |
 | **Jitsi** | [meet.gwei.cz](https://meet.gwei.cz) | Software pro videokonference | ✅ |
 
-Další self-hosted nástroje naleznete v sekci [Hosting](/projekty/hosting).
+Další self-hosted nástroje naleznete v sekci [Projekty → Hostované služby](/projekty#hostované-služby).

@@ -31,6 +31,6 @@ import Button from '@site/src/components/Button';
 | **General** | [#general:gwei.cz](https://matrix.to/#/#general:gwei.cz) | Hlavní kanál - obecná debata |
 | **Poradna** | [#poradna:gwei.cz](https://matrix.to/#/#poradna:gwei.cz) | Žádný dotaz není hloupý, ptejte se! |
 | **Události** |[#udalosti:gwei.cz](https://matrix.to/#/#udalosti:gwei.cz) | Konference, hackathony, meetupy atp. které se konají (speciálně v ČR/SK) |
-| **Status** | [#status:gwei.cz](https://matrix.to/#/#status:gwei.cz) | Přehled výpadků a mimořádností našich [hostovaných služeb](/projekty/hosting) |
+| **Status** | [#status:gwei.cz](https://matrix.to/#/#status:gwei.cz) | Přehled výpadků a mimořádností našich [hostovaných služeb](/projekty#hostované-služby) |
 | **BrightID verifikace** | [#brightid-verifikace:gwei.cz](https://matrix.to/#/#brightid-verifikace:gwei.cz) | Žádosti o [BrightID verifikaci](/projekty/brightid-verifikace) |
 | **Council** | 🔒 *soukromý kanál* | Koordinační kanál pro členy našeho [councilu](/komunita/council) |

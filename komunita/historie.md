@@ -50,7 +50,7 @@ description: Důležité milníky naší komunity
 
 * 15.02.2021 - První díl pravidelného pořadu "_Pálíme Ether_" (#etheroom).
 * 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](archiv/pozastavene-projekty/inkubator.md)" (#etheroom).
-* 03.02.2021 - [_Governance Call_](council/governance-call/) _#0_. Historicky první veřejný call v naší #etheroom.
+* 03.02.2021 - [_Governance Call_](/komunita/governance-call/) _#0_. Historicky první veřejný call v naší #etheroom.
 * 03.02.2021 - Vznik hlasové místnosti _#etheroom_ na našem Discord chatu.
 
 ## 2020
