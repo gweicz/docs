@@ -1,26 +1,38 @@
-# Gwei.cz Documentation/Website
+# Gwei.cz Web/Dokumentace
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Tento web je vytvořen pomocí [Docusaurus 2](https://docusaurus.io/), což je moderní generátor statických webových stránek.
 
-### Installation
+## Pro vývojáře
 
-```
-$ bun
-```
+### Instalace
 
-### Local Development
+Pro vývoj a sestavení webu je nutné mít nainstalované jedno z následujících Javascript prostředí:
+- [Bun](https://bun.sh/) v0.3+
+- [Node.js](https://nodejs.org/) v18+
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+Pro instalaci je nutné naklonovat repozitář a nainstalovat závislosti:
+```bash
+$ git clone git@gwei.cz:gweicz/docs.git
+$ bun install
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Vývojový server
+Lokální vývojou verzi spustíte pomocí příkazu:
+```bash
+$ bun start
+```
 
+Tento příkaz spustí místní vývojový server a otevře okno prohlížeče. Většina změn se projeví živě bez nutnosti restartovat server.
+
+### Sestavení statického webu
+
+Sestavení webu do statické podoby (build):
+```bash
+$ bun run build
+```
+
+Tento příkaz vygeneruje statický obsah do adresáře `build` a lze jej zobrazit pomocí libovolné služby hostingu statického obsahu.
+
+## Licence
+
+MIT

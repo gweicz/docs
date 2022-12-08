@@ -6,7 +6,7 @@ V této sekci se můžete seznámit s projekty, které vytváříme, nebo služb
 
 Věříme ve svobodný, otevřený a decentralizovaný internet a chceme mít kontrolu nad našimi daty - proto spoustu nástrojů a služeb, které používáme, i samy hostujeme (tzv. [*self-hosting*](https://yunohost.org/oc/selfhosting)).
 
-Máme například vlastní [Ethereum node](./hosting/ethereum-node.md), [Matrix homeserver](./hosting/matrix-homeserver.md), [Tor Relay](./hosting/tor.md), [Gitea (git hosting)](./hosting/gitea.md) a mnoho dalšího. Některé služby provozujeme veřejně, to znamená, že je může využít kdokoli!
+Máme například vlastní [Ethereum node](./hosting/ethereum-node.md), [Matrix homeserver](./hosting/matrix-homeserver), [Tor Relay](./hosting/tor.md), [Gitea (git hosting)](./hosting/gitea.md) a mnoho dalšího. Některé služby provozujeme veřejně, to znamená, že je může využít kdokoli!
 
 ### Decentralizované sítě
 
