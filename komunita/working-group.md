@@ -4,7 +4,7 @@ Nejaktivní členové naší komunity, kteří přinášejí hodnotu tím, že n
 
 Working Group nemá žádné rozhodovací pravomoce (kromě sebe-hodnocení viz níže), ale dlouhodobě aktivní členové se můžou stát členy [Councilu](./council).
 
-## Srovnání [Council](./council/) × Working Group
+## Srovnání [Council](/komunita/council/) × Working Group
 
 | | Council | Working Group |
 | ---: | --- | --- |
