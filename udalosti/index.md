@@ -6,6 +6,16 @@ Rádi vás na jakékoliv naší akcí uvidíme, naše akce jsou otevřené pro v
 
 ## Nadcházející akce
 
+```mdx-code-block
+import EventList from '@site/src/components/EventList';
+import Event from '@site/src/components/Event';
+
+<Event name="ETHBrno²" timeStart="2022-11-11T13:00" timeEnd="2022-11-13T19:00" description="Hackathon zaměřený na soukromí a bezpečnost." web="https://ethbrno.cz" venue="Impact Hub + ClubCo, Brno" />
+
+<EventList />
+```
+
+
 Seznam všech událostí naleznete na našem fóru v [sekci Kalendář](https://forum.gwei.cz/calendar).
 
 ## Koncepty

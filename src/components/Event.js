@@ -1,33 +1,55 @@
 import React from 'react';
 import { useState, useEffect } from 'react'
+import { format } from 'date-fns'
+import { cs } from 'date-fns/locale'
 
-export default function Event({ name, description, web, venue }) {
-    return <div class="container" style={{marginTop: '1em'}}>
-        <div class="row">
-        <div class="col col--1" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center'}}>
-            <div>
-                <div style={{margin: 'auto', fontSize: '1.8em'}}>13.</div>
-                <div style={{fontSize: '0.8em'}}>listopad</div>
-                <div style={{fontSize: '1em'}}>10:00</div>
+const cats = [
+    {
+        id: 31,
+        title: 'Meetup',
+        color: '#CFFDE1'
+    },
+    {
+        id: 43,
+        title: 'Online meetup',
+        color: '#FCF9BE'
+    }
+]
+
+export default function Event({ event }) {
+    if (!event) {
+        return null
+    }
+    const e = event
+    const start = new Date(e.start)
+    const url = "https://forum.gwei.cz/t/" + e.slug + "/" + e.id
+    let cat = cats.find(c => c.id === e.category_id)
+    if (!cat) {
+        cat = {
+            id: 0,
+            title: 'n/a',
+            color: 'gray'
+        }
+    }
+
+    return <div key={e.id} class="gwei-event">
+        <div class="date-header">
+            <div class="date">{format(start, 'dd.')}</div>
+            <div class="month">{format(start, 'MMMM', { locale: cs })}</div>
+            <div class="day">{format(start, 'EEEE', { locale: cs })}</div>
+        </div>
+        <div class="event-body">
+            <div class="event-title"><a href={url}>{e.title}</a></div>
+            <div class="event-subtitle">
+                <div class="subtitle event-time">{format(start, 'HH:mm', { locale: cs })}</div>
+                <div class="subtitle event-category" style={{backgroundColor:cat.color}}>{cat.title}</div>
+                {/*<div class="subtitle event-place">XXX</div>*/}
             </div>
         </div>
-        <div class="col col--11">
-            <div class="card">
-                <div class="card__header">
-                    <h3>{name}</h3>
+        {e.image_url ?
+                <div class="event-image">
+                    <a href={url}><img src={e.image_url}/></a>
                 </div>
-                <div class="card__body">
-                    <p>
-                        {description}
-                    </p>
-                </div>
-                <div class="card__footer">
-                    <p style={{fontSize: '1em'}}>
-                        Čas: 10:00 - 17:00 | Místo: <strong>{venue}</strong> | Web: <a href="{web}">{web.replace(/^https?:\/\//, '')}</a>
-                    </p> 
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
+            : null}
+</div>
 }

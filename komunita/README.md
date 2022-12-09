@@ -30,7 +30,7 @@ Ke komunitě se může přidat každý, a to hned na několika [komunikačních 
 
 Pokud se chcete zapojit více aktivněji, můžete nám pomoci s organizací [našich událostí](/udalosti), nebo pomoci s rozvojem komunitních [projektů a služeb](/projekty) - případně nás [podpořit finančně](podporte-nas/financni-podpora).
 
-Každá komunita musí být alespoň v omezené míře spravována - u nás k tomu slouží [Council](council), který je aktuálně složený z 16-ti ethereum pozitivních lidí.
+Každá komunita musí být alespoň v omezené míře spravována - u nás k tomu slouží [Council](council), který je aktuálně složený ze 4 ethereum pozitivních lidí.
 
 :::tip Co to znamená "gwei"?
 `Gwei` znamená "giga-wei", tedy milion "wei". `Wei` je [nejmenší monetární jednotka Etheru](https://ethereum.org/en/developers/docs/intro-to-ether/#denominations) (ETH). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.

@@ -45,6 +45,7 @@ const sidebars = {
         'council/clenove',
       ],
     },
+    'working-group',
     {
       type: 'category',
       label: 'Governance Call',

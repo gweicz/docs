@@ -32,3 +32,93 @@ img.inline-image {
   height: 1.3em;
   vertical-align: -0.3em;
 }
+
+.gwei-event {
+  margin-bottom: 0.75em;
+  border: 1px solid #e5e5e5;
+  border-radius: 0.5em;
+  display: flex;
+  overflow: hidden;
+  flex-wrap: nowrap;
+  background-color: #f3f3f3;
+}
+
+.gwei-event .date-header {
+  padding: 0.7em;
+  border-right: 1px solid #e5e5e5;
+}
+
+.gwei-event .date-header .date {
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+.gwei-event .date-header .month {
+  font-size: 0.8em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.gwei-event .date-header .day {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.gwei-event .event-body {
+  flex-grow: 1;
+  padding: 0.7em 1em;
+}
+
+.gwei-event .event-title {
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+.gwei-event .event-subtitle {
+  display: flex;
+  gap: 1rem;
+}
+
+.gwei-event .event-subtitle .subtitle {
+  font-size: 0.9em;
+}
+
+.gwei-event .event-time::before, .gwei-event .event-place::before {
+  display: inline-block;
+  content: "";
+  margin-right: 0.3em;
+  vertical-align: -0.0em;
+  opacity: 0.6;
+  background-repeat: no-repeat;
+}
+.gwei-event .event-time::before {
+  width: 0.8em;
+  height: 0.8em;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --%3E%3Cpath d='M256 512C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256s-114.6 256-256 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z'/%3E%3C/svg%3E");
+}
+
+.gwei-event .event-place::before {
+  width: 0.6em;
+  height: 0.8em;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 512'%3E%3C!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --%3E%3Cpath d='M384 192c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192z'/%3E%3C/svg%3E");
+}
+
+.gwei-event .event-subtitle .subtitle.event-category {
+  display: inline-block;
+  font-size: 0.8em;
+  border-radius: 0.5em;
+  padding: 0.1em 0.5em;
+}
+
+.gwei-event .event-image {
+  flex-shrink: 0;
+  justify-content: flex-end;
+  height: 7em;
+}
+
+.gwei-event .event-image img {
+  max-height: 100%; 
+}
