@@ -20,7 +20,7 @@ Working Group nemá žádné rozhodovací pravomoce (kromě sebe-hodnocení viz 
 ## Úkoly Working Group
 
 * Práce na [našich událostech](/udalosti/) nebo [projektech či službách](/projekty/)
-* Moderace [komunikačních kanálů](../komunikacni-kanaly/)
+* Moderace [komunikačních kanálů](/komunita/komunikacni-kanaly/)
 * Rozvíjení [nástrojů a dokumentace](/komunita/nastroje/)
 
 ## Epochy
