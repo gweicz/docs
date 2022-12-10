@@ -6,7 +6,7 @@ description: Rada starších
 
 Aktivní členové naší komunity, kteří společně komunitu řídí, směrují a vystupují za ní navenek.
 
-Členové councilu se rekrutují z [Working Group](../working-group) podle svého dlouhodobého  přínosu komunitě.
+Členové councilu se rekrutují z členů [Working Group](../working-group) podle svého dlouhodobého přínosu komunitě.
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
