@@ -122,3 +122,8 @@ img.inline-image {
 .gwei-event .event-image img {
   max-height: 100%; 
 }
+
+.gwei-event .event-lang {
+  display: inline-block;
+  margin-right: 0.5em; 
+}

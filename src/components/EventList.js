@@ -20,6 +20,7 @@ async function transformFeed (data) {
                 image_url: t.image_url,
                 excerpt: t.excerpt,
                 category_id: t.category_id,
+                tags: t.tags,
             }
         })
     const months = []
