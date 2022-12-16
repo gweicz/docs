@@ -4,7 +4,13 @@
 
 ![](.gitbook/assets/eth-overview.png)
 
-### ✨ Naše hodnoty
+## 👋 Naši lidé
+* současní a budoucí uživatelé Etherea, kterým nejde jen o spekulaci
+* tvůrci vzdělávacího a informačního obsahu
+* vývojáři smart-kontraktů a další profesionálové z ekosystému
+* zakladatelé a budovatelé nových projektů
+
+## ✨ Naše hodnoty
 
 * Otevřenost
 * Decentralizace
@@ -13,14 +19,21 @@
 * Veřejný zájem
 * Transparentnost
 
-### :tada: Naše cíle
+Pro lepší pochopení našich kryptoměnových hodnot, doporučujeme tyto zdroje:
+* Video "[Pět pilířů otevřených blockchainů](https://www.youtube.com/watch?v=qlAhXo-d-64)" (EN) od Andrease Antonopoulose.
+
+:::info Hledáte grafy?
+Naše komunita není zaměřená na spekulaci nebo obchodování. Technické analýzy u nás nenajdete.
+:::
+
+## :tada: Naše cíle
 
 * Šíření osvěty o Ethereu, DeFi a dalších otevřených kryptoměnách
 * Tvorba [komunikačního a informačního prostoru](/komunita/komunikacni-kanaly) pro všechny příznivce stejných hodnot
 * Pořádání různých pravidelných [online či offline událostí](/udalosti)
 * Tvorba nebo podpora nově vznikajících [edukačních projektů](/projekty) a provozování [užitečných služeb](/projekty)
 
-### :handshake: Přidejte se k nám
+## :handshake: Přidejte se k nám
 
 Ke komunitě se může přidat každý, a to hned na několika [komunikačních kanálech](komunikacni-kanaly/):
 
