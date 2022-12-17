@@ -28,6 +28,7 @@ const sidebars = {
       collapsed: false,
       collapsible: false,
       items: [
+        'gweicz-meetup',
         'beerfi'
       ],
     },
