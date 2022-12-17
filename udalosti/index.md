@@ -2,7 +2,7 @@
 
 Mezi hlavní pilíře naší komunity patří pořádání (nebo spolupořádání) různých pravidelných setkání - ať už velkých hackathonů nebo konferencí, nebo i menších workshopů nebo meetupů. Kromě fyzických událostí děláme také online setkání, kam se může připojit kdokoliv a odkudkoliv.
 
-Rádi vás na jakékoliv naší akcí uvidíme, naše akce jsou otevřené pro všechny!
+Rádi vás na jakékoliv naší akci uvidíme, naše setkání jsou otevřené pro všechny!
 
 ## Nadcházející akce
 
