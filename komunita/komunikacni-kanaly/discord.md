@@ -1,3 +1,7 @@
+---
+description: Zastaralé - přecházíme na Matrix
+---
+
 # Discord
 
 * Adresa: [**`discord.gwei.cz`**](https://discord.gwei.cz)
