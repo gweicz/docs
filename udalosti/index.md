@@ -25,8 +25,8 @@ Seznam všech událostí naleznete na našem fóru v [sekci Kalendář](https://
 
 ### Konference
 - [UTXO Praha](/udalosti/utxo) (*červen*) 🇨🇿 - lokální komunitní konference pro širokou veřejnost
-- [ETHBrno@Prague](/udalosti/ethbrno-prague) (*červen*) 🇬🇧 - odborná lunarpunk konference zaměřená na soukromí a bezpečnost
-- [ETHBrno Proxy](/udalosti/ethbrno-proxy) (*listopad*) 🇨🇿 - konference zaměřená na soukromí a bezpečnost pro široké publikum
+- [Web3Privacy Summit](/udalosti/web3privacy-summit) (*červen*, *listopad*) 🇬🇧 - odborná lunarpunk konference zaměřená na soukromí a bezpečnost
+- [L2Loft](/udalosti/l2loft) (*červen*) 🇨🇿 - pop-up akce zaměřená na Layer2 a související témata
 
 ### Meetupy
 - [BeerFi Prague](/udalosti/beerfi) (*poslední úterý v měsíci)* 🇬🇧 - setkání vývojářů smart-kontraktů

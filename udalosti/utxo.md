@@ -6,20 +6,26 @@
 
 UTXO (/juː-tiː-ɛks-əʊ/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která se koná v červnu v Praze. Je určená především pro lokální česko-slovenské publikum.
 
-Konference je organizována spolkem [UTXO Foundation](https://utxo.foundation/), a Gwei.cz se podílí především na obsahu.
+Konference je organizována spolkem [UTXO Foundation](https://utxo.foundation/).
 
 ## Přehled ročníků
 
 | Pořadí | Název | Datum | Místo |
 | ---    | ---   | ---   | ---   |
-| #3 | **UTXO.23** | červen 2023 | TBA |
+| #2 | [**UTXO.23**](#utxo23-2023) | 3-4.6. 2023 | [Gabriel Loci](https://www.gabrielloci.com/) |
 | #1 | [**UTXO.22**](#utxo22-2022) | 4-5.6.2022 | [Gabriel Loci](https://www.gabrielloci.com/) |
+
+### UTXO.23 (2023)
+
+```mdx-code-block
+import utxo23 from './assets/utxo23-banner.jpg';
+```
+<a href="https://utxo.cz/"><img src={utxo23} style={{maxWidth: '70%'}} /></a>
+
 
 ### UTXO.22 (2022)
 
 ```mdx-code-block
 import utxo22 from './assets/utxo22-banner.jpg';
 ```
-<a href="https://docs.utxo.cz/"><img src={utxo22} style={{maxWidth: '70%'}} /></a>
-
-Více informací o tomto ročníku můžete najít v [dokumentaci UTXO](https://docs.utxo.cz/).
+<a href="https://22.utxo.cz/"><img src={utxo22} style={{maxWidth: '70%'}} /></a>

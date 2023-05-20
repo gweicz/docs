@@ -18,8 +18,8 @@ const sidebars = {
       collapsible: false,
       items: [
         'utxo',
-        'ethbrno-prague',
-        'ethbrno-proxy',
+        'web3privacy-summit',
+        'l2loft',
       ],
     },
     {
@@ -34,7 +34,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Online události',
+      label: 'Online události (neaktivní)',
       collapsed: false,
       collapsible: false,
       items: [
