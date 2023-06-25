@@ -31,6 +31,7 @@ const sidebars = {
         'komunikacni-kanaly/matrix',
         'komunikacni-kanaly/mastodon',
         //'komunikacni-kanaly/blog',
+        'komunikacni-kanaly/bluesky',
         'komunikacni-kanaly/twitter',
         'komunikacni-kanaly/commonground',
         'komunikacni-kanaly/discord',

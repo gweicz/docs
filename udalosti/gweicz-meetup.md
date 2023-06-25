@@ -1,7 +1,9 @@
-# Gwei.cz Meetup
+# Gwei.cz Meetup Praha
 
-- Termín konání: TBD (1x měsíčně)
+- Termín konání: druhá nebo třetí středa v měsíci (1x měsíčně)
 - Místo: Praha
+- Cílová skupina: Uživatelé a příznivci Etherea, Web3 a decentralizovaných a svobodných technologií
+- Jazyk: Čeština 🇨🇿 a slovenština 🇸🇰
 
 Zajímá vás Ethereum? DeFi? Web3? Chcete si o tom pokecat s podobně naladěnými lidmi v češtině? Doražte na náš pravidelný komunitní meetup!
 
@@ -9,4 +11,8 @@ Zajímá vás Ethereum? DeFi? Web3? Chcete si o tom pokecat s podobně naladěn�
 
 | Číslo | Datum      | Místo                                                                         | Téma                                             |
 | --- | ---------- | ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [#1](https://forum.gwei.cz/t/gwei-cz-meetup-1/601) | 18.1.2023 | TBD | TBD |
+| [#5](https://lu.ma/gweicz-prg5) | 19.7.2023 | Paralelní Polis | Decentralizované sociální sítě |
+| [#4](https://lu.ma/gweicz-prg4) | 12.4.2023 | Paralelní Polis | Shanghai (Shapella) upgrade |
+| [#3](https://lu.ma/gweicz-prg3) | 15.3.2023 | Dílna | Hito Wallet, TrueBlocks |
+| [#2](https://lu.ma/gweicz-prg2) | 15.2.2023 | Pradlenka | - |
+| [#1](https://lu.ma/gweiprg1) | 18.1.2023 | Pradlenka | - |

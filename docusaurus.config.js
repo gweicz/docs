@@ -185,6 +185,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/gweicz',
               },
+              {
+                label: 'Bluesky',
+                href: 'https://bsky.app/profile/gwei.cz',
+              },
             ],
           },
           {

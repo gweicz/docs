@@ -4,6 +4,22 @@ description: Důležité milníky naší komunity
 
 # Historie komunity
 
+## 2023
+
+### Červen 2023
+
+* 23.06.2023 - Založen kanál [_Bluesky CZ/SK_](https://forum.gwei.cz/t/cesko-slovensky-kanal-pro-uzivatele-bluesky-at-protocol/624) na našem Matrix chatu.
+* 07.06.2023 - Pořádání pop-up události [_L2Loft_](/udalosti/l2loft).
+* 05.06.2023 - Pořádání konference [_Web3Privacy Summit #1_](/udalosti/web3privacy-summit).
+
+### Duben 2023
+
+* 27.04.2023 - Založen Bluesky účet [_@gwei.cz_](https://bsky.app/profile/gwei.cz).
+
+### Leden 2023
+
+* 18.01.2023 - První díl pravidelné série meetupů [_Gwei.cz Meetup Praha_](/udalosti/gweicz-meetup).
+
 ## 2022
 
 ### Listopad 2022
@@ -18,6 +34,7 @@ description: Důležité milníky naší komunity
 
 ### Červen 2022
 
+* 21.06.2022 - První díl nové meetupové série pro Web3 vývojáře [_BeerFi Prague_](/udalosti/beerfi).
 * 04.-05.06.2022 - Pořádání konference [_UTXO.22_](http://utxo.cz/) (první ročník).
 
 ### Březen 2022

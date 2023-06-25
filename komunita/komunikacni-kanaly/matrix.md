@@ -26,7 +26,7 @@ import Button from '@site/src/components/Button';
 
 ## Gwei.cz Matrix kanály
 
-| ID kanálu | Název | Popis kanálu |
+| Název | ID kanálu | Popis kanálu |
 | --- | --- | --- |
 | **General** | [#general:gwei.cz](https://matrix.to/#/#general:gwei.cz) | Hlavní kanál - obecná debata |
 | **Poradna** | [#poradna:gwei.cz](https://matrix.to/#/#poradna:gwei.cz) | Žádný dotaz není hloupý, ptejte se! |
@@ -34,3 +34,10 @@ import Button from '@site/src/components/Button';
 | **Status** | [#status:gwei.cz](https://matrix.to/#/#status:gwei.cz) | Přehled výpadků a mimořádností našich [hostovaných služeb](/projekty#hostované-služby) |
 | **BrightID verifikace** | [#brightid-verifikace:gwei.cz](https://matrix.to/#/#brightid-verifikace:gwei.cz) | Žádosti o [BrightID verifikaci](/projekty/brightid-verifikace) |
 | **Council** | 🔒 *soukromý kanál* | Koordinační kanál pro členy našeho [councilu](/komunita/council) |
+
+## Další hostované kanály
+
+| Název | ID kanálu | Popis kanálu |
+| --- | --- | --- |
+| **BohemianDAO** | [#bohemiandao:gwei.cz](https://matrix.to/#/#bohemiandao:gwei.cz) | BohemianDAO koordinační kanál |
+| **Bluesky CZ/SK** | [#bluesky:gwei.cz](https://matrix.to/#/#bohemiandao:gwei.cz) | Kanál pro česko-slovenské uživatele Bluesky (AT Protocol) |

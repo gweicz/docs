@@ -7,4 +7,4 @@ Pop-up akce zaměřená na Layer2 a související témata. Nápad vznikl v souvi
 
 | Název | Datum | Místo |
 | ---   | ---   | ---   |
-| L2Loft Prague | 8.6.2023 | Praha 🇨🇿 |
+| [L2Loft Prague](https://lu.ma/l2loft) | 8.6.2023 | Loft BubNY, Praha 🇨🇿 |

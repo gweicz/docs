@@ -1,7 +1,10 @@
 # BeerFi Prague
 
 - Termín konání: **poslední úterý v měsíci 19:00** (1x měsíčně)
-- Místo: Praha, aktuálně [Dílna](https://www.kafevdilne.cz/)
+- Místo: Praha, aktuálně [Cafe Dekada](https://www.decada.cz/)
+- Cílová skupina: Vývojáři smart-kontraktů
+- Jazyk: Angličtina 🇬🇧 (english-only!)
+- Zkratka: [beerfi.gwei.cz](https://beerfi.gwei.cz/)
 
 Každé úterý v posledním týdnu v měsíci se společně scházejí programátoři z oblasti Web3. Ať už jste Web2 vývojář a chcete se dozvědět více, nebo jste ve sféře Web3 seniorní, naše setkání je tu pro vás!
 

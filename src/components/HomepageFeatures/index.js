@@ -25,7 +25,7 @@ const FeatureList = [
     inversible: true,
     description: (
       <>
-        Prostor pro rychlou debatu, diskuze aktuálního dění v reálném čase.
+        Diskuze aktuálního dění v reálném čase <br />(<a href="/komunita/komunikacni-kanaly/matrix">Co je to Matrix?</a>)
       </>
     ),
   },
@@ -37,7 +37,19 @@ const FeatureList = [
     inversible: false,
     description: (
       <>
-        Sledujte nás na našem Twitteru, ať vám neunikne žádná novinka z Etherea.
+        Sledujte nás na Twitteru, ať vám neunikne žádná novinka z Etherea.
+      </>
+    ),
+  },
+  {
+    title: 'Bluesky',
+    buttonText: 'Přejít na Bluesky',
+    buttonHref: 'https://bsky.app/profile/gwei.cz',
+    Svg: require('@site/static/img/atproto.svg').default,
+    inversible: false,
+    description: (
+      <>
+        Sledujte nás také na Bluesky (AT Protocol), nové decentralizované sociální síti. <br />(<a href="/komunita/komunikacni-kanaly/bluesky">Co je to Bluesky?</a>)
       </>
     ),
   },

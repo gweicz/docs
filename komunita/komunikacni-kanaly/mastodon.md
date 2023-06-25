@@ -14,3 +14,8 @@ import Button from '@site/src/components/Button';
 
 <Button href="https://social.gwei.cz/@gweicz" text="Přejít na Gwei.cz Mastodon profil" />
 ```
+<br/><br/>
+
+:::info Zastaralé
+Mastodon, resp. Fediverse je relativně starý protokol, který má svoje velké nevýhody. Brzy bude pravděpodobně nahrazen lepšími alternativami, jako je např. [Bluesky](/komunita/komunikacni-kanaly/bluesky).
+:::
