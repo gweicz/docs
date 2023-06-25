@@ -13,7 +13,7 @@ const FeatureList = [
     inversible: false,
     description: (
       <>
-        Základní komunikační nástroj, zde řešíme to nejpodstatnější.
+        Základní komunitní komunikační nástroj, zde řešíme to nejpodstatnější.
       </>
     ),
   },
@@ -49,7 +49,7 @@ const FeatureList = [
     inversible: false,
     description: (
       <>
-        Sledujte nás také na Bluesky (AT Protocol), nové decentralizované sociální síti. <br />(<a href="/komunita/komunikacni-kanaly/bluesky">Co je to Bluesky?</a>)
+        Sledujte nás také na nové otevřené sociální síti Bluesky. <br />(<a href="/komunita/komunikacni-kanaly/bluesky">Co je to Bluesky?</a>)
       </>
     ),
   },
@@ -59,7 +59,7 @@ function Feature({Svg, title, description, href, buttonText, buttonHref, inversi
   const { colorMode } = useColorMode();
 
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--3')}>
       <div className="text--center" style={{paddingTop: '3em'}}>
         <Link href={buttonHref}>
           {inversible
