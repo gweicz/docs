@@ -8,7 +8,7 @@ description: Decentralizovaná alternativa Twitteru
 * Spravuje:
   * [@tree](https://forum.gwei.cz/u/tree) (bluesky: [`@tree.fail`](https://bsky.app/profile/tree.fail))
 
-[Bluesky](https://blueskyweb.xyz/), resp. [AT Protocol](https://atproto.com/) je nový protokol a sociální síť, sloužící jako otevřená a decentralizovaná náhrada [Twitteru](/komunikacni-kanaly/twitter).
+[Bluesky](https://blueskyweb.xyz/), resp. [AT Protocol](https://atproto.com/) je nový protokol a sociální síť, sloužící jako otevřená a decentralizovaná náhrada [Twitteru](/komunita/komunikacni-kanaly/twitter).
 
 ```mdx-code-block
 import Button from '@site/src/components/Button';
