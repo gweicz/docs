@@ -2,6 +2,7 @@
 
 - Termín konání: **první polovina listopadu**
 - Web: [ethbrno.cz](https://ethbrno.cz)
+- Bluesky: [@ethbrno.cz](https://bsky.app/profile/ethbrno.cz)
 - Twitter: [@ETHBrno](https://twitter.com/ETHBrno)
 
 ETHBrno je každoroční *mezinárodní, nezávislý a komunitní hackathon* (dříve konference) pro příznivce decentralizovaných financí, chytrých kontraktů a Web3 odehrávající se v Brně v České republice.
@@ -20,6 +21,8 @@ ETHBrno je organizové Gwei.cz komunitou a legálně zaštítěné spolkem [UTXO
 
 ### ETHBrno×3 2023
 Plánováno na 3-5. listopadu 2023.
+
+* [Přihlášení do čekací listiny na 2023](https://lu.ma/ethbrno3)
 
 ### ETHBrno² 2022
 
