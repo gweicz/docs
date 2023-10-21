@@ -31,13 +31,13 @@ const FeatureList = [
   },
   {
     title: 'Twitter',
-    buttonText: 'Přejít na Twitter',
+    buttonText: 'Přejít na 𝕏 (Twitter)',
     buttonHref: 'https://twitter.com/gweicz',
     Svg: require('@site/static/img/twitter.svg').default,
     inversible: false,
     description: (
       <>
-        Sledujte nás na Twitteru, ať vám neunikne žádná novinka z Etherea.
+        Sledujte nás na 𝕏 (Twitter), ať vám neunikne žádná novinka z Etherea.
       </>
     ),
   },

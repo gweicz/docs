@@ -178,16 +178,16 @@ const config = {
                 href: 'https://matrix.gwei.cz',
               },
               {
-                label: 'Mastodon',
-                href: 'https://social.gwei.cz',
-              },
-              {
-                label: 'Twitter',
+                label: '𝕏 (Twitter)',
                 href: 'https://twitter.com/gweicz',
               },
               {
                 label: 'Bluesky',
                 href: 'https://bsky.app/profile/gwei.cz',
+              },
+              {
+                label: 'Farcaster',
+                href: 'https://warpcast.com/gweicz',
               },
             ],
           },

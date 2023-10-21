@@ -2,7 +2,7 @@
 description: Zastaralé - přecházíme na Matrix
 ---
 
-# Discord
+# Discord (nepoužívané)
 
 * Adresa: [**`discord.gwei.cz`**](https://discord.gwei.cz)
 * Spravuje: [Council](../council)
