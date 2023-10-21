@@ -24,4 +24,4 @@ Bluesky/AT Protokol je v současné době (červen 2023) v early-adopter fázi a
 
 ## Screenshot
 
-[![Náš profil na Twitteru](../.gitbook/assets/bluesky-gweicz-screenshot.jpg)](https://bsky.app/profile/gwei.cz)
+[![Náš profil na Bluesky](../.gitbook/assets/bluesky-gweicz-screenshot.jpg)](https://bsky.app/profile/gwei.cz)

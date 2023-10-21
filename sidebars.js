@@ -32,6 +32,7 @@ const sidebars = {
         'komunikacni-kanaly/mastodon',
         //'komunikacni-kanaly/blog',
         'komunikacni-kanaly/bluesky',
+        'komunikacni-kanaly/farcaster',
         'komunikacni-kanaly/twitter',
         'komunikacni-kanaly/commonground',
         'komunikacni-kanaly/discord',

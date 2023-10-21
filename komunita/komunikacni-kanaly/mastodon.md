@@ -2,7 +2,7 @@
 description: Sociální síť podobná Twitteru, ale open-source
 ---
 
-# Mastodon
+# Mastodon (nepoužívané)
 
 * Účet: [**`@gweicz@gwei.cz`**](https://social.gwei.cz/@gweicz)
 * Spravuje: [@tree](https://forum.gwei.cz/u/tree) (mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree))

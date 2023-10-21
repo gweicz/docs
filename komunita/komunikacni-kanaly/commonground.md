@@ -2,7 +2,7 @@
 description: Web3 chatovací platforma pro komunity
 ---
 
-# Common Ground
+# Common Ground (nepoužívané)
 
 * Adresa: [**`cg.gwei.cz`**](https://cg.gwei.cz/) (obsahuje pozvánku)
 * Spravuje: [@tree](https://forum.gwei.cz/u/tree)
