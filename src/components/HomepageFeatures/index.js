@@ -30,7 +30,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Twitter',
+    title: '𝕏 (Twitter)',
     buttonText: 'Přejít na 𝕏 (Twitter)',
     buttonHref: 'https://twitter.com/gweicz',
     Svg: require('@site/static/img/twitter.svg').default,
