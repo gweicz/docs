@@ -1,6 +1,6 @@
 # Kdo jsme?
 
-**Gwei.cz je Česko/Slovenská komunita příznivců platformy [Ethereum](klicove-pojmy.md#ethereum) a hnutí okolo [decentralizovaných financí](klicove-pojmy.md#decentralizované-finance-defi) (DeFi), [internetu nové generace](./klicove-pojmy.md#web3) (Web3), [decentralizovaných organizacích](./klicove-pojmy.md#decentralizované-organizace-dao) (DAO) a obecně decentralizovaných a svobodných technologií ([FOSS](/komunita/klicove-pojmy#free-and-open-source-software-foss)). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok, který postupně mění nejenom svět tradičních financí.**
+**Gwei.cz je Česko/Slovenská komunita příznivců platformy [Ethereum](./klicove-pojmy#ethereum) a hnutí okolo [decentralizovaných financí](./klicove-pojmy#decentralizované-finance-defi) (DeFi), [internetu nové generace](./klicove-pojmy#web3) (Web3), [decentralizovaných organizacích](./klicove-pojmy#decentralizované-organizace-dao) (DAO) a obecně decentralizovaných a svobodných technologií ([FOSS](./klicove-pojmy#free-and-open-source-software-foss)). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok, který postupně mění nejenom svět tradičních financí.**
 
 ![](.gitbook/assets/eth-overview.png)
 

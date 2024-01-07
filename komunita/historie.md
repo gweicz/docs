@@ -55,7 +55,7 @@ description: Důležité milníky naší komunity
 
 * 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz/) ([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)).&#x20;
 * 19.04.2021 - Summoning [_BohemianDAO_](http://bohemiandao.cz/).
-* 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](archiv/pozastavene-projekty/pitevna.md)" (#etheroom).
+* 08.04.2021 - První díl pravidelného pořadu "_Pitevna_" (#etheroom).
 * 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz).
 * 01.04.2021 - Nová dokumentace komunity na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz) (GitBook).
 
@@ -67,7 +67,7 @@ description: Důležité milníky naší komunity
 ### Únor 2021
 
 * 15.02.2021 - První díl pravidelného pořadu "_Pálíme Ether_" (#etheroom).
-* 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](archiv/pozastavene-projekty/inkubator.md)" (#etheroom).
+* 11.02.2021 - První díl pravidelného pořadu "_Inkubátor_" (#etheroom).
 * 03.02.2021 - [_Governance Call_](/komunita/governance-call/) _#0_. Historicky první veřejný call v naší #etheroom.
 * 03.02.2021 - Vznik hlasové místnosti _#etheroom_ na našem Discord chatu.
 
@@ -84,19 +84,19 @@ description: Důležité milníky naší komunity
 
 ### Březen 2020
 
-* 29.03.2020 - Přesun projektu [_Přehled CZ/SK kryptoscény_](archiv/pozastavene-projekty/czsk-kryptoscena.md) na vlastní subdoménu ([czsk-scena.gwei.cz](https://czsk-scena.gwei.cz)).
+* 29.03.2020 - Přesun projektu _Přehled CZ/SK kryptoscény_ na vlastní subdoménu ([czsk-scena.gwei.cz](https://czsk-scena.gwei.cz)).
 * 28.03.2020 - Založeno komunitní [_Diskuzní fórum_](komunikacni-kanaly/forum.md) _(_[_forum.gwei.cz_](https://forum.gwei.cz)_)_.
 * 24.03.2020 - Dokončená inicializace _Gwei.cz DAO v1_ (4 zakládající členové).
-* 15.03.2020 - Nový projekt [_Srovnávač kurzů kryptoměn_](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md) _(kurzy.gwei.cz)_.
+* 15.03.2020 - Nový projekt _Srovnávač kurzů kryptoměn_ _(kurzy.gwei.cz)_.
 * 02.03.2020 - Nová webová stránka [_gwei.cz_](https://gwei.cz) koncipovaná jako knowledge-base.
 * 01.03.2020 - Komunitní _Discord_ pokořil metu 50 členů.
 
 ### Únor 2020
 
-* 29.02.2020 - Nový projekt [_Přehled CZ/SK kryptoscény_](archiv/pozastavene-projekty/czsk-kryptoscena.md)_._
+* 29.02.2020 - Nový projekt _Přehled CZ/SK kryptoscény_.
 * 24.02.2020 - Založen Twitter účet [_@gweicz_](https://twitter.com/gweicz).
 * 13.02.2020 - Založen komunitní _Discord_ (chat).
-* 12.02.2020 - Projekt [_dCZK_](archiv/pozastavene-projekty/dczk-stablecoin.md) zveřejněn na našem GitHubu.
+* 12.02.2020 - Projekt _dCZK_ zveřejněn na našem GitHubu.
 * 09.02.2020 - Založena GitHub organizace [_gweicz_](https://github.com/gweicz/).
 
 ### Leden 2020
