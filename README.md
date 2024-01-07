@@ -1,6 +1,6 @@
 # Gwei.cz Web/Dokumentace
 
-Tento web je vytvořen pomocí [Docusaurus 2](https://docusaurus.io/), což je moderní generátor statických webových stránek.
+Tento web je vytvořen pomocí [Docusaurus 3](https://docusaurus.io/), což je moderní generátor statických webových stránek.
 
 ## Pro vývojáře
 
