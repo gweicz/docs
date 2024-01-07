@@ -26,18 +26,17 @@ Plánováno na 3-5. listopadu 2023.
 
 ### ETHBrno² 2022
 
-```mdx-code-block
 import brno2022 from './assets/ethbrno-2022-banner.jpg';
-```
+
 <a href="https://docs.ethbrno.cz/events/2022"><img src={brno2022} style={{maxWidth: '70%'}} /></a>
 
 Více informací o tomto ročníku můžete najít v [dokumentaci ETHBrno 2022](https://docs.ethbrno.cz/events/2022).
 
 ### ETHBrno 2021
 
-```mdx-code-block
 import brno2021 from './assets/ethbrno-2021-banner.jpg';
-```
+
+
 <a href="https://docs.ethbrno.cz/events/2021"><img src={brno2021} style={{maxWidth: '70%'}} /></a>
 
 Více informací o tomto ročníku můžete najít v [dokumentaci ETHBrno 2021](https://docs.ethbrno.cz/events/2021).

@@ -15,7 +15,7 @@ Working Group nemá žádné rozhodovací pravomoce (kromě sebe-hodnocení viz 
 | **Posouzení** | 12 epoch | 3 epochy | 
 | **Vznik členství** | >2.5% / 12 epoch | otevřené, nutný souhlas WG |
 | **Přechodné období<br/>pro nové členy** | není | 3 epochy nemohou rozdávat GIVE |
-| **Zánik členství** | <2.5% / 12 epoch | <2.5% / 3 epochy |
+| **Zánik členství** | 2.5% / 12 epoch | \<2.5% / 3 epochy |
 
 ## Úkoly Working Group
 

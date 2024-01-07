@@ -35,9 +35,9 @@ Výše je zobrazený seznam akcí z našeho [Gwei.cz kalendáře na Luma](https:
 
 ### Hackathony
 - [ETHBrno](/udalosti/ethbrno) (*listopad*) 🇬🇧 - mezinárodní lunarpunk hackathon zaměřený na téma soukromí a bezpečnost
+- [ETHBohemia](/udalosti/ethbohemia) (*březen*) 🇬🇧 - mezinárodní hackathon zaměřený na témata [Ethereum Event Gardeners](https://ethevents.club/)
 
 ### Konference
-- [UTXO Praha](/udalosti/utxo) (*červen*) 🇨🇿 - lokální komunitní konference pro širokou veřejnost
 - [Web3Privacy Summit](/udalosti/web3privacy-summit) (*červen*, *listopad*) 🇬🇧 - odborná lunarpunk konference zaměřená na soukromí a bezpečnost
 - [L2Loft](/udalosti/l2loft) (*různě*) 🇨🇿 - pop-up akce zaměřená na Layer2 a související témata
 
@@ -47,9 +47,13 @@ Výše je zobrazený seznam akcí z našeho [Gwei.cz kalendáře na Luma](https:
 
 ### Online události
 
-:::warning Neaktivní
-Online události v aktuální době nepořádáme (červen 2023).
+:::info Neaktivní
+Online události v aktuální době nepořádáme (leden 2024).
 :::
 
 - [Pálíme Ether](/udalosti/palime-ether) (*každé druhé úterý*) 🇨🇿 - diskuze novinek a změn v Ethereum ekosystému za poslední dva týdny
 - [Pitevna](/udalosti/pitevna) (*připravujeme*) 🇨🇿 - společný rozbor konkrétního fenoménů
+
+## Bývalé události
+
+- [UTXO Praha (2022/2023)](/udalosti/utxo) (*červen*) 🇨🇿 - lokální komunitní konference pro širokou veřejnost

@@ -8,7 +8,8 @@ Děkujeme všem, kteří podporují Ethereum ekosystém! :pray:
 
 ### Gwei.cz Grant
 
-{% embed url="https://gitcoin.co/grants/3578/gweicz-czsk-defiethereum-community" %}
+https://gitcoin.co/grants/3578/gweicz-czsk-defiethereum-community
+
 
 ### Další lokální granty
 
@@ -17,9 +18,9 @@ Děkujeme všem, kteří podporují Ethereum ekosystém! :pray:
 
 ## Videonávod
 
-{% embed url="https://www.youtube.com/watch?v=zUC-nNU0m8E" %}
+https://www.youtube.com/watch?v=zUC-nNU0m8E
 
-{% embed url="https://www.youtube.com/watch?v=z7-5k2x-T5Q" %}
+https://www.youtube.com/watch?v=z7-5k2x-T5Q
 
 ## Více o Gitcoin Grants
 
@@ -28,5 +29,3 @@ Děkujeme všem, kteří podporují Ethereum ekosystém! :pray:
 _Quadratic funding_ (v překladu něco jako "Kvadratické financování") je matematicky optimální způsob financování veřejných statků v demokratickém společenství. Zesiluje příspěvky široké komunity oproti příspěvkům malé skupiny velkých hráčů.
 
 Více informací o QF naleznete na webu [wtfisqf.com](https://wtfisqf.com/).
-
-{% embed url="https://www.youtube.com/watch?v=HJljTtLnymE" %}

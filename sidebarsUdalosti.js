@@ -9,6 +9,7 @@ const sidebars = {
       collapsible: false,
       items: [
         'ethbrno',
+        'ethbohemia',
       ],
     },
     {
@@ -17,7 +18,6 @@ const sidebars = {
       collapsed: false,
       collapsible: false,
       items: [
-        'utxo',
         'web3privacy-summit',
         'l2loft',
       ],
@@ -40,6 +40,15 @@ const sidebars = {
       items: [
         'palime-ether',
         'pitevna'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Bývalé události',
+      collapsed: false,
+      collapsible: false,
+      items: [
+        'utxo',
       ],
     },
 

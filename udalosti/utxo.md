@@ -1,4 +1,8 @@
-# UTXO Praha
+# UTXO Praha 22+23
+
+:::warning Neaktivní
+Naše komunita se podílela na prvním a druhém ročníku (2022 a 2023). V současné době již konferenci nepořádáme.
+:::
 
 - Termín konání: **začátek června**
 - Web: [utxo.cz](https://utxo.cz)
@@ -17,15 +21,12 @@ Konference je organizována spolkem [UTXO Foundation](https://utxo.foundation/).
 
 ### UTXO.23 (2023)
 
-```mdx-code-block
 import utxo23 from './assets/utxo23-banner.jpg';
-```
-<a href="https://utxo.cz/"><img src={utxo23} style={{maxWidth: '70%'}} /></a>
 
+<a href="https://utxo.cz/"><img src={utxo23} style={{maxWidth: '70%'}} /></a>
 
 ### UTXO.22 (2022)
 
-```mdx-code-block
 import utxo22 from './assets/utxo22-banner.jpg';
-```
+
 <a href="https://22.utxo.cz/"><img src={utxo22} style={{maxWidth: '70%'}} /></a>

@@ -28,7 +28,3 @@ Kde začít? Kontaktuj nás na našem [Discord chatu](https://chat.gwei.cz) nebo
 
 Budeme vdeční za každý [finanční příspěvek](financni-podpora.md).
 
-{% content-ref url="financni-podpora.md" %}
-[financni-podpora.md](financni-podpora.md)
-{% endcontent-ref %}
-
