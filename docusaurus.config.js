@@ -9,7 +9,7 @@ const darkTheme = themes.dracula;
 const config = {
   title: 'Gwei.cz',
   tagline: 'Společně tvoříme nový svobodný finanční systém a internet nové generace (Web3)',
-  url: 'https://gwei.cz',
+  url: 'https://legacy.gwei.cz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -103,7 +103,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Gwei.cz',
+        title: 'Gwei.cz (Legacy)',
         logo: {
           alt: 'Gwei.cz Logo',
           src: 'img/logo.png',

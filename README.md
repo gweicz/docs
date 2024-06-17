@@ -1,3 +1,7 @@
+This documentation is DEPRECATED. Please see current https://gwei.cz
+
+---
+
 # Gwei.cz Web/Dokumentace
 
 Tento web je vytvořen pomocí [Docusaurus 3](https://docusaurus.io/), což je moderní generátor statických webových stránek.
